@@ -1,0 +1,12 @@
+{
+  "name": "BR Achei",
+  "version": "1.0.0",
+  "description": "Catálogo com as recomendações do BR Achei - Os melhores filmes, sereis, Series e desenhos brasileiros",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
