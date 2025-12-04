@@ -8,10 +8,10 @@ const builder = new addonBuilder({
     description: "Catálogo com as recomendações do BR Achei - Os melhores filmes, sereis, Series e desenhos brasileiros",
     logo: "https://i.imgur.com/gDysxlK.png",
     resources: ["catalog", "meta"],
-    types: ["BR Filmes", "BR Series"],
+    types: ["movie", "series"],
     catalogs: [
         {
-            type: "BR Filmes",
+            type: "movie",
             id: "Filmes",
             name: "Filmes",
             extra: [
@@ -28,7 +28,7 @@ const builder = new addonBuilder({
             ]
         },
         {
-            type: "BR Series",
+            type: "series",
             id: "Series",
             name: "Series",
             extra: [
@@ -52,10 +52,10 @@ builder.defineCatalogHandler(({ type, id, extra }) => {
     let results = catalog;
 
     // Filter by type and id logic (simplified to just filter by type for now as base)
-    if (type === "BR Filmes" && id === "Filmes") {
-        results = results.filter(i => i.type === "BR Filmes");
-    } else if (type === "BR Series" && id === "Series") {
-        results = results.filter(i => i.type === "BR Series");
+    if (type === "movie" && id === "Filmes") {
+        results = results.filter(i => i.type === "movie");
+    } else if (type === "series" && id === "Series") {
+        results = results.filter(i => i.type === "series");
     } else {
         return Promise.resolve({ metas: [] });
     }
