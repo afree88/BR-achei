@@ -1,7 +1,7 @@
 [
     {
         "id": "tt0097564",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ilha das Flores",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0097564/img",
@@ -16,7 +16,7 @@
     },
     {
         "id": "tt0075937",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Di Cavalcanti",
         "releaseInfo": "1977",
         "poster": "https://images.metahub.space/poster/medium/tt0075937/img",
@@ -31,7 +31,7 @@
     },
     {
         "id": "tt0210576",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Blablablá",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0210576/img",
@@ -44,7 +44,7 @@
     },
     {
         "id": "tt0442546",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Velha a Fiar",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0442546/img",
@@ -58,7 +58,7 @@
     },
     {
         "id": "tt0054766",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Couro de Gato",
         "releaseInfo": "1962",
         "poster": "https://images.metahub.space/poster/medium/tt0054766/img",
@@ -71,7 +71,7 @@
     },
     {
         "id": "tt0053609",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Aruanda",
         "releaseInfo": "1960",
         "poster": "https://images.metahub.space/poster/medium/tt0053609/img",
@@ -86,7 +86,7 @@
     },
     {
         "id": "tt0455211",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "SuperOutro",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0455211/img",
@@ -99,7 +99,7 @@
     },
     {
         "id": "tt0058319",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Maioria Absoluta",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0058319/img",
@@ -113,7 +113,7 @@
     },
     {
         "id": "tt8105838",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Entrevista",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt8105838/img",
@@ -126,7 +126,7 @@
     },
     {
         "id": "tt0053608",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Arraial do Cabo",
         "releaseInfo": "1960",
         "poster": "https://images.metahub.space/poster/medium/tt0053608/img",
@@ -140,7 +140,7 @@
     },
     {
         "id": "tt11327100",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Alma no Olho",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt11327100/img",
@@ -152,7 +152,7 @@
     },
     {
         "id": "tt1817292",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Vinil Verde",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt1817292/img",
@@ -166,7 +166,7 @@
     },
     {
         "id": "tt4006770",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Viramundo",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt4006770/img",
@@ -179,7 +179,7 @@
     },
     {
         "id": "tt0320796",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Zézero",
         "releaseInfo": "1974",
         "poster": "https://images.metahub.space/poster/medium/tt0320796/img",
@@ -191,7 +191,7 @@
     },
     {
         "id": "tt0144874",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Documentário",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt0144874/img",
@@ -203,7 +203,7 @@
     },
     {
         "id": "tt0144838",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Contos Eróticos",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0144838/img",
@@ -215,7 +215,7 @@
     },
     {
         "id": "tt2246947",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Recife Frio",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt2246947/img",
@@ -228,7 +228,7 @@
     },
     {
         "id": "tt0352625",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nelson Cavaquinho",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0352625/img",
@@ -243,7 +243,7 @@
     },
     {
         "id": "tt0125738",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Esta Não É a Sua Vida",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt0125738/img",
@@ -256,7 +256,7 @@
     },
     {
         "id": "tt10888204",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Sangue Corsário",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt10888204/img",
@@ -269,7 +269,7 @@
     },
     {
         "id": "tt0125721",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Dia em Que Dorival Encarou a Guarda",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0125721/img",
@@ -281,7 +281,7 @@
     },
     {
         "id": "tt0053179",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Poeta do Castelo",
         "releaseInfo": "1959",
         "poster": "https://images.metahub.space/poster/medium/tt0053179/img",
@@ -295,7 +295,7 @@
     },
     {
         "id": "tt0210587",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Brasília, Contradições de uma Cidade",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0210587/img",
@@ -309,7 +309,7 @@
     },
     {
         "id": "tt0140356",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Maranhão 66",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt0140356/img",
@@ -323,7 +323,7 @@
     },
     {
         "id": "tt1014085",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Som, ou Tratado de Harmonia",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt1014085/img",
@@ -336,7 +336,7 @@
     },
     {
         "id": "tt0314296",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lacrimosa",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0314296/img",
@@ -350,7 +350,7 @@
     },
     {
         "id": "tt7357032",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Subterrâneos do Futebol",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt7357032/img",
@@ -364,7 +364,7 @@
     },
     {
         "id": "tt0151510",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mato Eles?",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0151510/img",
@@ -378,7 +378,7 @@
     },
     {
         "id": "tt8491744",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Guaxuma",
         "releaseInfo": "2018",
         "poster": "https://images.metahub.space/poster/medium/tt8491744/img",
@@ -392,7 +392,7 @@
     },
     {
         "id": "tt0263735",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Meow",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0263735/img",
@@ -406,7 +406,7 @@
     },
     {
         "id": "tt0784816",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Eletrodoméstica",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0784816/img",
@@ -420,7 +420,7 @@
     },
     {
         "id": "tt3839970",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Guida",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt3839970/img",
@@ -435,7 +435,7 @@
     },
     {
         "id": "tt11338494",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Rei do Cagaço",
         "releaseInfo": "1977",
         "poster": "https://images.metahub.space/poster/medium/tt11338494/img",
@@ -447,7 +447,7 @@
     },
     {
         "id": "tt0298735",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Animando",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0298735/img",
@@ -462,7 +462,7 @@
     },
     {
         "id": "tt4259780",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Fantasmas",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt4259780/img",
@@ -475,7 +475,7 @@
     },
     {
         "id": "tt0091074",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Frankenstein Punk",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0091074/img",
@@ -493,7 +493,7 @@
     },
     {
         "id": "tt0239956",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Socorro Nobre",
         "releaseInfo": "1996",
         "poster": "https://images.metahub.space/poster/medium/tt0239956/img",
@@ -507,7 +507,7 @@
     },
     {
         "id": "tt7331898",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "À Meia Noite com Glauber Rocha",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt7331898/img",
@@ -520,7 +520,7 @@
     },
     {
         "id": "tt7230136",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Torre",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt7230136/img",
@@ -536,7 +536,7 @@
     },
     {
         "id": "tt11327134",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dias de Greve",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt11327134/img",
@@ -549,7 +549,7 @@
     },
     {
         "id": "tt0323606",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Pedra da Riqueza",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt0323606/img",
@@ -562,7 +562,7 @@
     },
     {
         "id": "tt0059442",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Memória do Cangaço",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt0059442/img",
@@ -576,7 +576,7 @@
     },
     {
         "id": "tt2172056",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Duplo",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2172056/img",
@@ -589,7 +589,7 @@
     },
     {
         "id": "tt4796646",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Quintal",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt4796646/img",
@@ -602,7 +602,7 @@
     },
     {
         "id": "tt11327084",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Fala Brasília",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt11327084/img",
@@ -615,7 +615,7 @@
     },
     {
         "id": "tt5571644",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Porto de Santos",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt5571644/img",
@@ -629,7 +629,7 @@
     },
     {
         "id": "tt4446548",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Horror Palace Hotel",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt4446548/img",
@@ -642,7 +642,7 @@
     },
     {
         "id": "tt0063735",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Esta Rua Tão Augusta",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0063735/img",
@@ -655,7 +655,7 @@
     },
     {
         "id": "tt3861418",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Muro",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt3861418/img",
@@ -668,7 +668,7 @@
     },
     {
         "id": "tt0198707",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Manhã Cinzenta",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0198707/img",
@@ -681,7 +681,7 @@
     },
     {
         "id": "tt4790016",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Tigre e a Gazela",
         "releaseInfo": "1976",
         "poster": "https://images.metahub.space/poster/medium/tt4790016/img",
@@ -695,7 +695,7 @@
     },
     {
         "id": "tt0182007",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cinema Inocente",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt0182007/img",
@@ -708,7 +708,7 @@
     },
     {
         "id": "tt3144892",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Uma Rua Chamada Triumpho 1969/70",
         "releaseInfo": "1971",
         "poster": "https://images.metahub.space/poster/medium/tt3144892/img",
@@ -721,7 +721,7 @@
     },
     {
         "id": "tt6904908",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Carro de Bois",
         "releaseInfo": "1974",
         "poster": "https://images.metahub.space/poster/medium/tt6904908/img",
@@ -735,7 +735,7 @@
     },
     {
         "id": "tt0313422",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Olho por Olho",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt0313422/img",
@@ -747,7 +747,7 @@
     },
     {
         "id": "tt2084060",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Praça Walt Disney",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt2084060/img",
@@ -762,7 +762,7 @@
     },
     {
         "id": "tt11338522",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Chapeleiros",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt11338522/img",
@@ -775,7 +775,7 @@
     },
     {
         "id": "tt2015407",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Juvenília",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt2015407/img",
@@ -787,7 +787,7 @@
     },
     {
         "id": "tt0335584",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Óculos do Vovô",
         "releaseInfo": "1913",
         "poster": "https://images.metahub.space/poster/medium/tt0335584/img",
@@ -800,7 +800,7 @@
     },
     {
         "id": "tt1370727",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dossiê Rê Bordosa",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1370727/img",
@@ -815,7 +815,7 @@
     },
     {
         "id": "tt11338548",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lampião (O Rei do Cangaço)",
         "releaseInfo": "1937",
         "poster": "https://images.metahub.space/poster/medium/tt11338548/img",
@@ -828,7 +828,7 @@
     },
     {
         "id": "tt11338618",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Jardim Nova Bahia",
         "releaseInfo": "1971",
         "poster": "https://images.metahub.space/poster/medium/tt11338618/img",
@@ -841,7 +841,7 @@
     },
     {
         "id": "tt2018108",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Partido Alto",
         "releaseInfo": "1976",
         "poster": "https://images.metahub.space/poster/medium/tt2018108/img",
@@ -854,7 +854,7 @@
     },
     {
         "id": "tt0210836",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mauro, Humberto",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt0210836/img",
@@ -867,7 +867,7 @@
     },
     {
         "id": "tt0189183",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ver Ouvir",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0189183/img",
@@ -880,7 +880,7 @@
     },
     {
         "id": "tt1014073",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Congo",
         "releaseInfo": "1972",
         "poster": "https://images.metahub.space/poster/medium/tt1014073/img",
@@ -893,7 +893,7 @@
     },
     {
         "id": "tt0298785",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Caramujo-flor",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt0298785/img",
@@ -905,7 +905,7 @@
     },
     {
         "id": "tt0277212",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Palíndromo",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0277212/img",
@@ -918,7 +918,7 @@
     },
     {
         "id": "tt0318153",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Um Sol Alaranjado",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0318153/img",
@@ -930,7 +930,7 @@
     },
     {
         "id": "tt10109524",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cantos de Trabalho - Música Folclórica Brasileira",
         "releaseInfo": "1955",
         "poster": "https://images.metahub.space/poster/medium/tt10109524/img",
@@ -943,7 +943,7 @@
     },
     {
         "id": "tt0322466",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Guru e os Guris",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt0322466/img",
@@ -956,7 +956,7 @@
     },
     {
         "id": "tt0126546",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nosferato no Brasil",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0126546/img",
@@ -970,7 +970,7 @@
     },
     {
         "id": "tt0365530",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mulheres de Cinema",
         "releaseInfo": "1977",
         "poster": "https://images.metahub.space/poster/medium/tt0365530/img",
@@ -984,7 +984,7 @@
     },
     {
         "id": "tt8176636",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Kbela",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt8176636/img",
@@ -996,7 +996,7 @@
     },
     {
         "id": "tt0334662",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Voz e o Vazio - A Vez de Vassourinha",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0334662/img",
@@ -1009,7 +1009,7 @@
     },
     {
         "id": "tt0323052",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Libertários",
         "releaseInfo": "1976",
         "poster": "https://images.metahub.space/poster/medium/tt0323052/img",
@@ -1022,7 +1022,7 @@
     },
     {
         "id": "tt0318441",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Meu Compadre, Zé Ketti",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0318441/img",
@@ -1036,7 +1036,7 @@
     },
     {
         "id": "tt0137207",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Seams",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0137207/img",
@@ -1048,7 +1048,7 @@
     },
     {
         "id": "tt11338638",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Céu sobre Água",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt11338638/img",
@@ -1060,7 +1060,7 @@
     },
     {
         "id": "tt0095059",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dov'è Meneghetti?",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt0095059/img",
@@ -1074,7 +1074,7 @@
     },
     {
         "id": "tt10583306",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Teremos Infância",
         "releaseInfo": "1974",
         "poster": "https://images.metahub.space/poster/medium/tt10583306/img",
@@ -1087,7 +1087,7 @@
     },
     {
         "id": "tt0296892",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Texas Hotel",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0296892/img",
@@ -1099,7 +1099,7 @@
     },
     {
         "id": "tt1669218",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Rituaes e Festas Bororo",
         "releaseInfo": "1916",
         "poster": "https://images.metahub.space/poster/medium/tt1669218/img",
@@ -1112,7 +1112,7 @@
     },
     {
         "id": "tt0058233",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Integração Racial",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0058233/img",
@@ -1125,7 +1125,7 @@
     },
     {
         "id": "tt4104228",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "H.O.",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt4104228/img",
@@ -1139,7 +1139,7 @@
     },
     {
         "id": "tt8899296",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Kyrie ou o início do Caos",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt8899296/img",
@@ -1152,7 +1152,7 @@
     },
     {
         "id": "tt2906270",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Pouco Mais de um Mês",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2906270/img",
@@ -1166,7 +1166,7 @@
     },
     {
         "id": "tt0331928",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cartão Vermelho",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0331928/img",
@@ -1178,7 +1178,7 @@
     },
     {
         "id": "tt5571774",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Um Dia na Rampa",
         "releaseInfo": "1960",
         "poster": "https://images.metahub.space/poster/medium/tt5571774/img",
@@ -1191,7 +1191,7 @@
     },
     {
         "id": "tt3390498",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Moreira da Silva",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt3390498/img",
@@ -1204,7 +1204,7 @@
     },
     {
         "id": "tt6805050",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nada",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt6805050/img",
@@ -1216,7 +1216,7 @@
     },
     {
         "id": "tt11338700",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nada Levarei Quando Morrer Aqueles que Mim Deve Cobrarei no Inferno",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt11338700/img",
@@ -1229,7 +1229,7 @@
     },
     {
         "id": "tt6326796",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Ataque das Araras",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt6326796/img",
@@ -1241,7 +1241,7 @@
     },
     {
         "id": "tt0322181",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Enigma de um Dia",
         "releaseInfo": "1996",
         "poster": "https://images.metahub.space/poster/medium/tt0322181/img",
@@ -1253,7 +1253,7 @@
     },
     {
         "id": "tt0109107",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Amor!",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0109107/img",
@@ -1265,7 +1265,7 @@
     },
     {
         "id": "tt9392110",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Estado Itinerante",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt9392110/img",
@@ -1278,7 +1278,7 @@
     },
     {
         "id": "tt0366170",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Amor Só de Mãe",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0366170/img",
@@ -1293,7 +1293,7 @@
     },
     {
         "id": "tt0480517",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Carolina",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0480517/img",
@@ -1305,7 +1305,7 @@
     },
     {
         "id": "tt11338710",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Contestação",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt11338710/img",
@@ -1318,7 +1318,7 @@
     },
     {
         "id": "tt0194858",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Exemplo Redentor",
         "releaseInfo": "1919",
         "poster": "https://images.metahub.space/poster/medium/tt0194858/img",
@@ -1332,7 +1332,7 @@
     },
     {
         "id": "tt3183630",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Menino e o Mundo",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt3183630/img",
@@ -1346,7 +1346,7 @@
     },
     {
         "id": "tt2231208",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Uma História de Amor e Fúria",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2231208/img",
@@ -1365,7 +1365,7 @@
     },
     {
         "id": "tt2322316",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Até que a Sbórnia nos Separe",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2322316/img",
@@ -1379,7 +1379,7 @@
     },
     {
         "id": "tt0190006",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Sinfonia Amazônica",
         "releaseInfo": "1951",
         "poster": "https://images.metahub.space/poster/medium/tt0190006/img",
@@ -1392,7 +1392,7 @@
     },
     {
         "id": "tt0494032",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Boi Aruá",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0494032/img",
@@ -1408,7 +1408,7 @@
     },
     {
         "id": "tt0356201",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Wood & Stock: Sexo, Orégano e Rock'n'Roll",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0356201/img",
@@ -1422,7 +1422,7 @@
     },
     {
         "id": "tt0274348",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "As Aventuras da Turma da Mônica",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0274348/img",
@@ -1436,7 +1436,7 @@
     },
     {
         "id": "tt7818722",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Até a China",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt7818722/img",
@@ -1449,7 +1449,7 @@
     },
     {
         "id": "tt0136748",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cassiopéia",
         "releaseInfo": "1996",
         "poster": "https://images.metahub.space/poster/medium/tt0136748/img",
@@ -1464,7 +1464,7 @@
     },
     {
         "id": "tt6477234",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Projeto do Meu Pai",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt6477234/img",
@@ -1477,7 +1477,7 @@
     },
     {
         "id": "tt0276599",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "De janela pro cinema",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0276599/img",
@@ -1490,7 +1490,7 @@
     },
     {
         "id": "tt0296801",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Piconzé",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt0296801/img",
@@ -1506,7 +1506,7 @@
     },
     {
         "id": "tt0291959",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Grilo Feliz",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0291959/img",
@@ -1523,7 +1523,7 @@
     },
     {
         "id": "tt3009032",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Linear",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt3009032/img",
@@ -1537,7 +1537,7 @@
     },
     {
         "id": "tt7818742",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Dragãozinho Manso: Jonjoca",
         "releaseInfo": "1942",
         "poster": "https://images.metahub.space/poster/medium/tt7818742/img",
@@ -1551,7 +1551,7 @@
     },
     {
         "id": "tt3838596",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Castillo y el Armado",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt3838596/img",
@@ -1567,7 +1567,7 @@
     },
     {
         "id": "tt0332068",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Garota das Telas",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt0332068/img",
@@ -1580,7 +1580,7 @@
     },
     {
         "id": "tt2216582",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "As Aventuras do Avião Vermelho",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt2216582/img",
@@ -1595,7 +1595,7 @@
     },
     {
         "id": "tt7818772",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Menina da Chuva",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt7818772/img",
@@ -1608,7 +1608,7 @@
     },
     {
         "id": "tt0296499",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Almas em Chamas",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0296499/img",
@@ -1622,7 +1622,7 @@
     },
     {
         "id": "tt6512096",
-        "type": "BR Series",
+        "type": "series",
         "name": "Historietas Assombradas",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt6512096/img",
@@ -1640,7 +1640,7 @@
     },
     {
         "id": "tt7818796",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "As Aventuras de Virgolino",
         "releaseInfo": "1938",
         "poster": "https://images.metahub.space/poster/medium/tt7818796/img",
@@ -1653,7 +1653,7 @@
     },
     {
         "id": "tt0335268",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Macaco Feio... Macaco Bonito",
         "releaseInfo": "1929",
         "poster": "https://images.metahub.space/poster/medium/tt0335268/img",
@@ -1667,7 +1667,7 @@
     },
     {
         "id": "tt0276073",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Deus é pai",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0276073/img",
@@ -1680,7 +1680,7 @@
     },
     {
         "id": "tt0204507",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Novela",
         "releaseInfo": "1992",
         "poster": "https://images.metahub.space/poster/medium/tt0204507/img",
@@ -1694,7 +1694,7 @@
     },
     {
         "id": "tt0219493",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Amassa Que Elas Gostam",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0219493/img",
@@ -1707,7 +1707,7 @@
     },
     {
         "id": "tt0486893",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Turma da Mônica em A Princesa e o Robô",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0486893/img",
@@ -1722,7 +1722,7 @@
     },
     {
         "id": "tt1756873",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Minhocas",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt1756873/img",
@@ -1737,7 +1737,7 @@
     },
     {
         "id": "tt7819248",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Eu queria ser um monstro",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt7819248/img",
@@ -1750,8 +1750,8 @@
     },
     {
         "id": "tt7819382",
-        "type": "BR Filmes",
-        "name": "The Masp BR Filmes: O Filme do MASP",
+        "type": "movie",
+        "name": "The Masp movie: O Filme do MASP",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt7819382/img",
         "description": "",
@@ -1763,7 +1763,7 @@
     },
     {
         "id": "tt1489923",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Divino, De Repente",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1489923/img",
@@ -1776,7 +1776,7 @@
     },
     {
         "id": "tt5472470",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Quebra Cabeça de Tarik",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt5472470/img",
@@ -1789,7 +1789,7 @@
     },
     {
         "id": "tt7819422",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Adeus",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt7819422/img",
@@ -1803,7 +1803,7 @@
     },
     {
         "id": "tt6132286",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ritos de Passagem",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt6132286/img",
@@ -1815,7 +1815,7 @@
     },
     {
         "id": "tt6069794",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Quando os Dias Eram Eternos",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt6069794/img",
@@ -1828,7 +1828,7 @@
     },
     {
         "id": "tt7819978",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Átomo Brincalhão",
         "releaseInfo": "1961",
         "poster": "https://images.metahub.space/poster/medium/tt7819978/img",
@@ -1841,7 +1841,7 @@
     },
     {
         "id": "tt2281387",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Céu No Andar De Baixo",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt2281387/img",
@@ -1857,7 +1857,7 @@
     },
     {
         "id": "tt1002469",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Vida Maria",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1002469/img",
@@ -1870,7 +1870,7 @@
     },
     {
         "id": "tt7820204",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Josué e o Pé de Macaxeira",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt7820204/img",
@@ -1884,7 +1884,7 @@
     },
     {
         "id": "tt11350194",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Pudim de Morango",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt11350194/img",
@@ -1897,7 +1897,7 @@
     },
     {
         "id": "tt7820264",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Furico e Fiofó",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt7820264/img",
@@ -1910,7 +1910,7 @@
     },
     {
         "id": "tt4387094",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Graffiti Dança",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt4387094/img",
@@ -1923,7 +1923,7 @@
     },
     {
         "id": "tt0296832",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Rocky & Hudson",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0296832/img",
@@ -1938,7 +1938,7 @@
     },
     {
         "id": "tt0213748",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Jonas and Lisa",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0213748/img",
@@ -1951,7 +1951,7 @@
     },
     {
         "id": "tt4850236",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Balloons",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt4850236/img",
@@ -1964,7 +1964,7 @@
     },
     {
         "id": "tt7820312",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Calango Lengo: Morte e Vida sem Ver Água",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt7820312/img",
@@ -1980,7 +1980,7 @@
     },
     {
         "id": "tt3709042",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Passo",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt3709042/img",
@@ -1993,7 +1993,7 @@
     },
     {
         "id": "tt1068299",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tyger",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt1068299/img",
@@ -2007,7 +2007,7 @@
     },
     {
         "id": "tt6037634",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Faroeste: Um Autêntico Western",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt6037634/img",
@@ -2020,7 +2020,7 @@
     },
     {
         "id": "tt7820812",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Noturno",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt7820812/img",
@@ -2033,7 +2033,7 @@
     },
     {
         "id": "tt7824206",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tzubra Tzuma",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt7824206/img",
@@ -2046,7 +2046,7 @@
     },
     {
         "id": "tt1146313",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Deu no Jornal",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt1146313/img",
@@ -2059,7 +2059,7 @@
     },
     {
         "id": "tt0934621",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Yansan",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0934621/img",
@@ -2072,7 +2072,7 @@
     },
     {
         "id": "tt2656632",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Casa de Máquinas",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt2656632/img",
@@ -2085,7 +2085,7 @@
     },
     {
         "id": "tt0485392",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Hamlet",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt0485392/img",
@@ -2099,7 +2099,7 @@
     },
     {
         "id": "tt1799129",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tempestade",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt1799129/img",
@@ -2113,7 +2113,7 @@
     },
     {
         "id": "tt7824484",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ballet de Lissajous",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt7824484/img",
@@ -2126,7 +2126,7 @@
     },
     {
         "id": "tt7824612",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Até o Sol Raiá",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt7824612/img",
@@ -2139,7 +2139,7 @@
     },
     {
         "id": "tt1849029",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Anjos do Meio da Praça",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1849029/img",
@@ -2153,7 +2153,7 @@
     },
     {
         "id": "tt7824750",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Vênus: Filó, a Fadinha Lésbica",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt7824750/img",
@@ -2166,7 +2166,7 @@
     },
     {
         "id": "tt8526526",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cabeça de Papelão",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt8526526/img",
@@ -2180,7 +2180,7 @@
     },
     {
         "id": "tt8526548",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Balanços e Milkshakes",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt8526548/img",
@@ -2193,7 +2193,7 @@
     },
     {
         "id": "tt4586324",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Céu, Inferno e Outras Partes do Corpo",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt4586324/img",
@@ -2208,7 +2208,7 @@
     },
     {
         "id": "tt8526568",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Saga da Asa Branca",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt8526568/img",
@@ -2221,7 +2221,7 @@
     },
     {
         "id": "tt5562008",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Way of Giants",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt5562008/img",
@@ -2235,7 +2235,7 @@
     },
     {
         "id": "tt8544110",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Ex-Mágico",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt8544110/img",
@@ -2248,7 +2248,7 @@
     },
     {
         "id": "tt8544168",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Abstrações - Estudo nº 1",
         "releaseInfo": "1960",
         "poster": "https://images.metahub.space/poster/medium/tt8544168/img",
@@ -2261,7 +2261,7 @@
     },
     {
         "id": "tt8544214",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "AmigãoZão",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt8544214/img",
@@ -2274,7 +2274,7 @@
     },
     {
         "id": "tt0296552",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Castelos de Vento",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0296552/img",
@@ -2287,7 +2287,7 @@
     },
     {
         "id": "tt2178724",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dia Estrelado",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt2178724/img",
@@ -2301,7 +2301,7 @@
     },
     {
         "id": "tt3838594",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Viagem na Chuva",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt3838594/img",
@@ -2316,7 +2316,7 @@
     },
     {
         "id": "tt0218418",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "El macho",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0218418/img",
@@ -2329,7 +2329,7 @@
     },
     {
         "id": "tt0423019",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Quando os Morcegos se Calam",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0423019/img",
@@ -2342,7 +2342,7 @@
     },
     {
         "id": "tt0286542",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Chifre de Camaleão",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0286542/img",
@@ -2355,7 +2355,7 @@
     },
     {
         "id": "tt8548930",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Faz Mal 2: Super-Tição",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt8548930/img",
@@ -2368,7 +2368,7 @@
     },
     {
         "id": "tt0375557",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Aquarela",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0375557/img",
@@ -2383,7 +2383,7 @@
     },
     {
         "id": "tt8544316",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Belowars",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt8544316/img",
@@ -2396,7 +2396,7 @@
     },
     {
         "id": "tt0415111",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Lasanha Assassina",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0415111/img",
@@ -2412,7 +2412,7 @@
     },
     {
         "id": "tt0213562",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cidade Fantasma",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0213562/img",
@@ -2425,7 +2425,7 @@
     },
     {
         "id": "tt1418918",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Primeiro Movimento",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt1418918/img",
@@ -2439,7 +2439,7 @@
     },
     {
         "id": "tt5235162",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Peixonauta: Agente Secreto Da O.s.t.r.a.",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt5235162/img",
@@ -2453,7 +2453,7 @@
     },
     {
         "id": "tt4265532",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "História Antes de Uma História",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt4265532/img",
@@ -2465,7 +2465,7 @@
     },
     {
         "id": "tt8544356",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Égun",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt8544356/img",
@@ -2478,7 +2478,7 @@
     },
     {
         "id": "tt0325150",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Campo Branco",
         "releaseInfo": "1997",
         "poster": "https://images.metahub.space/poster/medium/tt0325150/img",
@@ -2490,7 +2490,7 @@
     },
     {
         "id": "tt8549004",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Fluxos",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt8549004/img",
@@ -2503,7 +2503,7 @@
     },
     {
         "id": "tt8549084",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Engolervilha",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt8549084/img",
@@ -2516,7 +2516,7 @@
     },
     {
         "id": "tt11351906",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Informística",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt11351906/img",
@@ -2529,7 +2529,7 @@
     },
     {
         "id": "tt8549242",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Juro que Vi",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt8549242/img",
@@ -2544,7 +2544,7 @@
     },
     {
         "id": "tt8559308",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lúmen",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt8559308/img",
@@ -2557,7 +2557,7 @@
     },
     {
         "id": "tt8559396",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Três Porquinhos",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt8559396/img",
@@ -2570,7 +2570,7 @@
     },
     {
         "id": "tt8559436",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Reflexos",
         "releaseInfo": "1974",
         "poster": "https://images.metahub.space/poster/medium/tt8559436/img",
@@ -2583,7 +2583,7 @@
     },
     {
         "id": "tt8559560",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Linhas e Espirais",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt8559560/img",
@@ -2596,7 +2596,7 @@
     },
     {
         "id": "tt8559696",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Planeta Terra",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt8559696/img",
@@ -2609,7 +2609,7 @@
     },
     {
         "id": "tt0022080",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Limite",
         "releaseInfo": "1931",
         "poster": "https://images.metahub.space/poster/medium/tt0022080/img",
@@ -2622,7 +2622,7 @@
     },
     {
         "id": "tt0058006",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Deus e o Diabo na Terra do Sol",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0058006/img",
@@ -2637,7 +2637,7 @@
     },
     {
         "id": "tt0057654",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Vidas Secas",
         "releaseInfo": "1963",
         "poster": "https://images.metahub.space/poster/medium/tt0057654/img",
@@ -2649,7 +2649,7 @@
     },
     {
         "id": "tt0134402",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cabra Marcado Para Morrer",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt0134402/img",
@@ -2663,7 +2663,7 @@
     },
     {
         "id": "tt0062352",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Terra em Transe",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0062352/img",
@@ -2675,7 +2675,7 @@
     },
     {
         "id": "tt0144782",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Bandido da Luz Vermelha",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0144782/img",
@@ -2688,7 +2688,7 @@
     },
     {
         "id": "tt0195324",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "São Paulo, Sociedade Anônima",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt0195324/img",
@@ -2700,7 +2700,7 @@
     },
     {
         "id": "tt0317248",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cidade de Deus",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0317248/img",
@@ -2713,7 +2713,7 @@
     },
     {
         "id": "tt0056322",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Pagador de Promessas",
         "releaseInfo": "1962",
         "poster": "https://images.metahub.space/poster/medium/tt0056322/img",
@@ -2725,7 +2725,7 @@
     },
     {
         "id": "tt0064616",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Macunaíma",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0064616/img",
@@ -2738,7 +2738,7 @@
     },
     {
         "id": "tt0140888",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Central do Brasil",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0140888/img",
@@ -2750,7 +2750,7 @@
     },
     {
         "id": "tt0082912",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Pixote: A Lei do Mais Fraco",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0082912/img",
@@ -2763,7 +2763,7 @@
     },
     {
         "id": "tt0082317",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Eles Não Usam Black-Tie",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt0082317/img",
@@ -2775,7 +2775,7 @@
     },
     {
         "id": "tt2190367",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Som ao Redor",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2190367/img",
@@ -2788,7 +2788,7 @@
     },
     {
         "id": "tt0241663",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lavoura Arcaica",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0241663/img",
@@ -2800,7 +2800,7 @@
     },
     {
         "id": "tt1165293",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Jogo de Cena",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1165293/img",
@@ -2814,7 +2814,7 @@
     },
     {
         "id": "tt0080482",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bye Bye Brasil",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0080482/img",
@@ -2826,7 +2826,7 @@
     },
     {
         "id": "tt0056582",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Assalto ao Trem Pagador",
         "releaseInfo": "1962",
         "poster": "https://images.metahub.space/poster/medium/tt0056582/img",
@@ -2839,7 +2839,7 @@
     },
     {
         "id": "tt0185714",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "São Bernardo",
         "releaseInfo": "1972",
         "poster": "https://images.metahub.space/poster/medium/tt0185714/img",
@@ -2851,7 +2851,7 @@
     },
     {
         "id": "tt0126968",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Iracema: Uma Transa Amazônica",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt0126968/img",
@@ -2864,7 +2864,7 @@
     },
     {
         "id": "tt0189814",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Noite Vazia",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0189814/img",
@@ -2876,7 +2876,7 @@
     },
     {
         "id": "tt0058122",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Fuzis",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0058122/img",
@@ -2888,7 +2888,7 @@
     },
     {
         "id": "tt0024049",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ganga Bruta",
         "releaseInfo": "1933",
         "poster": "https://images.metahub.space/poster/medium/tt0024049/img",
@@ -2900,7 +2900,7 @@
     },
     {
         "id": "tt0201450",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bang Bang",
         "releaseInfo": "1971",
         "poster": "https://images.metahub.space/poster/medium/tt0201450/img",
@@ -2912,7 +2912,7 @@
     },
     {
         "id": "tt0059281",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Hora e Vez de Augusto Matraga",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt0059281/img",
@@ -2924,7 +2924,7 @@
     },
     {
         "id": "tt0048572",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Rio, 40 Graus",
         "releaseInfo": "1955",
         "poster": "https://images.metahub.space/poster/medium/tt0048572/img",
@@ -2936,7 +2936,7 @@
     },
     {
         "id": "tt0333388",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Edifício Master",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0333388/img",
@@ -2949,7 +2949,7 @@
     },
     {
         "id": "tt0087709",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Memórias do Cárcere",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt0087709/img",
@@ -2961,7 +2961,7 @@
     },
     {
         "id": "tt0861739",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tropa de Elite",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt0861739/img",
@@ -2976,7 +2976,7 @@
     },
     {
         "id": "tt0059560",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Padre e a Moça",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt0059560/img",
@@ -2988,7 +2988,7 @@
     },
     {
         "id": "tt0922605",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Serras da desordem",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0922605/img",
@@ -3001,7 +3001,7 @@
     },
     {
         "id": "tt1002543",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Santiago",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1002543/img",
@@ -3014,7 +3014,7 @@
     },
     {
         "id": "tt0064256",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Dragão da Maldade contra o Santo Guerreiro",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0064256/img",
@@ -3029,7 +3029,7 @@
     },
     {
         "id": "tt1555149",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tropa de Elite 2: O Inimigo Agora é Outro",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1555149/img",
@@ -3043,7 +3043,7 @@
     },
     {
         "id": "tt0303408",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Invasor",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0303408/img",
@@ -3056,7 +3056,7 @@
     },
     {
         "id": "tt0145532",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Todas as Mulheres do Mundo",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt0145532/img",
@@ -3070,7 +3070,7 @@
     },
     {
         "id": "tt0158766",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Matou a Família e Foi ao Cinema",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0158766/img",
@@ -3083,7 +3083,7 @@
     },
     {
         "id": "tt0077452",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dona Flor e Seus Dois Maridos",
         "releaseInfo": "1976",
         "poster": "https://images.metahub.space/poster/medium/tt0077452/img",
@@ -3097,7 +3097,7 @@
     },
     {
         "id": "tt0055821",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Cafajestes",
         "releaseInfo": "1962",
         "poster": "https://images.metahub.space/poster/medium/tt0055821/img",
@@ -3110,7 +3110,7 @@
     },
     {
         "id": "tt0191187",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Homem do Sputnik",
         "releaseInfo": "1959",
         "poster": "https://images.metahub.space/poster/medium/tt0191187/img",
@@ -3122,7 +3122,7 @@
     },
     {
         "id": "tt0089297",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Hora da Estrela",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0089297/img",
@@ -3134,7 +3134,7 @@
     },
     {
         "id": "tt0260354",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Sem Essa, Aranha",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0260354/img",
@@ -3146,7 +3146,7 @@
     },
     {
         "id": "tt0091049",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Filme Demência",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0091049/img",
@@ -3159,7 +3159,7 @@
     },
     {
         "id": "tt0059440",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "À Meia Noite Levarei Sua Alma",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0059440/img",
@@ -3171,7 +3171,7 @@
     },
     {
         "id": "tt0114651",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Terra Estrangeira",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0114651/img",
@@ -3187,7 +3187,7 @@
     },
     {
         "id": "tt0145100",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Mulher de Todos",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0145100/img",
@@ -3201,7 +3201,7 @@
     },
     {
         "id": "tt0050919",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Rio, Zona Norte",
         "releaseInfo": "1957",
         "poster": "https://images.metahub.space/poster/medium/tt0050919/img",
@@ -3214,7 +3214,7 @@
     },
     {
         "id": "tt0109084",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Alma Corsária",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0109084/img",
@@ -3226,7 +3226,7 @@
     },
     {
         "id": "tt0144295",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Margem",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0144295/img",
@@ -3239,7 +3239,7 @@
     },
     {
         "id": "tt0069389",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Toda Nudez Será Castigada",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt0069389/img",
@@ -3251,7 +3251,7 @@
     },
     {
         "id": "tt0317887",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Madame Satã",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0317887/img",
@@ -3267,7 +3267,7 @@
     },
     {
         "id": "tt0059163",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Falecida",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt0059163/img",
@@ -3279,7 +3279,7 @@
     },
     {
         "id": "tt0062690",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Ritual dos Sádicos",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0062690/img",
@@ -3292,7 +3292,7 @@
     },
     {
         "id": "tt0185733",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tudo Bem",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0185733/img",
@@ -3304,7 +3304,7 @@
     },
     {
         "id": "tt0080910",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Idade da Terra",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0080910/img",
@@ -3319,7 +3319,7 @@
     },
     {
         "id": "tt0291003",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Abril Despedaçado",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0291003/img",
@@ -3331,7 +3331,7 @@
     },
     {
         "id": "tt0049275",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Grande Momento",
         "releaseInfo": "1958",
         "poster": "https://images.metahub.space/poster/medium/tt0049275/img",
@@ -3343,7 +3343,7 @@
     },
     {
         "id": "tt2861532",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Lobo Atrás da Porta",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2861532/img",
@@ -3357,7 +3357,7 @@
     },
     {
         "id": "tt0089424",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Beijo da Mulher Aranha",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0089424/img",
@@ -3369,7 +3369,7 @@
     },
     {
         "id": "tt0178585",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Homem que Virou Suco",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0178585/img",
@@ -3381,7 +3381,7 @@
     },
     {
         "id": "tt0271383",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Auto da Compadecida",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0271383/img",
@@ -3395,7 +3395,7 @@
     },
     {
         "id": "tt0045595",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Cangaceiro",
         "releaseInfo": "1953",
         "poster": "https://images.metahub.space/poster/medium/tt0045595/img",
@@ -3411,7 +3411,7 @@
     },
     {
         "id": "tt0074804",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Lira do Delírio",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0074804/img",
@@ -3423,7 +3423,7 @@
     },
     {
         "id": "tt0139927",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Caso dos Irmãos Naves",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0139927/img",
@@ -3435,7 +3435,7 @@
     },
     {
         "id": "tt0340468",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ônibus 174",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0340468/img",
@@ -3449,7 +3449,7 @@
     },
     {
         "id": "tt0064029",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Anjo Nasceu",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0064029/img",
@@ -3462,7 +3462,7 @@
     },
     {
         "id": "tt0183512",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Meu Nome é Tonho",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0183512/img",
@@ -3476,7 +3476,7 @@
     },
     {
         "id": "tt0841175",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Céu de Suely",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0841175/img",
@@ -3488,7 +3488,7 @@
     },
     {
         "id": "tt3742378",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Que Horas Ela Volta?",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt3742378/img",
@@ -3501,7 +3501,7 @@
     },
     {
         "id": "tt0263124",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bicho de Sete Cabeças",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0263124/img",
@@ -3513,7 +3513,7 @@
     },
     {
         "id": "tt2746176",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tatuagem",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2746176/img",
@@ -3525,7 +3525,7 @@
     },
     {
         "id": "tt1039960",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Estômago",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1039960/img",
@@ -3539,7 +3539,7 @@
     },
     {
         "id": "tt0373760",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cinema, Aspirinas e Urubus",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0373760/img",
@@ -3552,7 +3552,7 @@
     },
     {
         "id": "tt0118674",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Baile Perfumado",
         "releaseInfo": "1996",
         "poster": "https://images.metahub.space/poster/medium/tt0118674/img",
@@ -3565,7 +3565,7 @@
     },
     {
         "id": "tt0084529",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Pra Frente, Brasil",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0084529/img",
@@ -3578,7 +3578,7 @@
     },
     {
         "id": "tt0077878",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lúcio Flávio, o Passageiro da Agonia",
         "releaseInfo": "1977",
         "poster": "https://images.metahub.space/poster/medium/tt0077878/img",
@@ -3591,7 +3591,7 @@
     },
     {
         "id": "tt0192743",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Viajante",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0192743/img",
@@ -3603,7 +3603,7 @@
     },
     {
         "id": "tt0142085",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Anjos do Arrabalde",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0142085/img",
@@ -3615,7 +3615,7 @@
     },
     {
         "id": "tt0179964",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mar de Rosas",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0179964/img",
@@ -3628,7 +3628,7 @@
     },
     {
         "id": "tt0261162",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O País de São Saruê",
         "releaseInfo": "1971",
         "poster": "https://images.metahub.space/poster/medium/tt0261162/img",
@@ -3641,7 +3641,7 @@
     },
     {
         "id": "tt0138596",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Marvada Carne",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0138596/img",
@@ -3654,7 +3654,7 @@
     },
     {
         "id": "tt0130995",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Sargento Getúlio",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0130995/img",
@@ -3666,7 +3666,7 @@
     },
     {
         "id": "tt0087473",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Inocência",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0087473/img",
@@ -3679,7 +3679,7 @@
     },
     {
         "id": "tt0333074",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Amarelo Manga",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0333074/img",
@@ -3691,7 +3691,7 @@
     },
     {
         "id": "tt0138073",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Saltimbancos Trapalhões",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt0138073/img",
@@ -3707,7 +3707,7 @@
     },
     {
         "id": "tt0068739",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Inconfidentes",
         "releaseInfo": "1972",
         "poster": "https://images.metahub.space/poster/medium/tt0068739/img",
@@ -3719,7 +3719,7 @@
     },
     {
         "id": "tt0060380",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Esta Noite Encarnarei no Teu Cadáver",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0060380/img",
@@ -3731,7 +3731,7 @@
     },
     {
         "id": "tt0163569",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cabaret Mineiro",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0163569/img",
@@ -3744,7 +3744,7 @@
     },
     {
         "id": "tt0080534",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Chuvas de Verão",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0080534/img",
@@ -3756,7 +3756,7 @@
     },
     {
         "id": "tt0208100",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dois Córregos: Verdades Submersas no Tempo",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0208100/img",
@@ -3768,7 +3768,7 @@
     },
     {
         "id": "tt0293007",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Carandiru",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0293007/img",
@@ -3781,7 +3781,7 @@
     },
     {
         "id": "tt0389377",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Signo do Caos",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0389377/img",
@@ -3793,7 +3793,7 @@
     },
     {
         "id": "tt0857355",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Ano em que Meus Pais Saíram de Férias",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0857355/img",
@@ -3805,7 +3805,7 @@
     },
     {
         "id": "tt0196749",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Meteorango Kid: Herói Intergalático",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0196749/img",
@@ -3817,7 +3817,7 @@
     },
     {
         "id": "tt0073082",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Guerra Conjugal",
         "releaseInfo": "1974",
         "poster": "https://images.metahub.space/poster/medium/tt0073082/img",
@@ -3829,7 +3829,7 @@
     },
     {
         "id": "tt0085216",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bar Esperança",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0085216/img",
@@ -3841,7 +3841,7 @@
     },
     {
         "id": "tt0296108",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Notícias de uma Guerra Particular",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0296108/img",
@@ -3853,7 +3853,7 @@
     },
     {
         "id": "tt0376835",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Prisioneiro da Grade de Ferro",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0376835/img",
@@ -3865,7 +3865,7 @@
     },
     {
         "id": "tt2889844",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Viramundo",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2889844/img",
@@ -3877,7 +3877,7 @@
     },
     {
         "id": "tt0317051",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "ABC da Greve",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0317051/img",
@@ -3889,7 +3889,7 @@
     },
     {
         "id": "tt0296689",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Jango",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt0296689/img",
@@ -3903,7 +3903,7 @@
     },
     {
         "id": "tt0056010",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Garrincha - Alegria do Povo",
         "releaseInfo": "1962",
         "poster": "https://images.metahub.space/poster/medium/tt0056010/img",
@@ -3916,7 +3916,7 @@
     },
     {
         "id": "tt0322723",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Imagens do Inconsciente",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0322723/img",
@@ -3928,7 +3928,7 @@
     },
     {
         "id": "tt0427221",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Estamira",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0427221/img",
@@ -3940,7 +3940,7 @@
     },
     {
         "id": "tt0254753",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Santo Forte",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0254753/img",
@@ -3952,7 +3952,7 @@
     },
     {
         "id": "tt0297986",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Janela da Alma",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0297986/img",
@@ -3964,7 +3964,7 @@
     },
     {
         "id": "tt0260822",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Conterrâneos Velhos de Guerra",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt0260822/img",
@@ -3976,7 +3976,7 @@
     },
     {
         "id": "tt0144542",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Opinião Pública",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0144542/img",
@@ -3988,7 +3988,7 @@
     },
     {
         "id": "tt6788828",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Martírio",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt6788828/img",
@@ -4000,7 +4000,7 @@
     },
     {
         "id": "tt1977750",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cidadão Boilesen",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1977750/img",
@@ -4012,7 +4012,7 @@
     },
     {
         "id": "tt0430059",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Entreatos",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0430059/img",
@@ -4024,7 +4024,7 @@
     },
     {
         "id": "tt0206805",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nós Que Aqui Estamos por Vós Esperamos",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0206805/img",
@@ -4036,7 +4036,7 @@
     },
     {
         "id": "tt0348167",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "São Paulo, Sinfonia da Metrópole",
         "releaseInfo": "1929",
         "poster": "https://images.metahub.space/poster/medium/tt0348167/img",
@@ -4048,7 +4048,7 @@
     },
     {
         "id": "tt1754803",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Uma Noite em 67",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1754803/img",
@@ -4061,7 +4061,7 @@
     },
     {
         "id": "tt1546795",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Corumbiara",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1546795/img",
@@ -4073,7 +4073,7 @@
     },
     {
         "id": "tt2475154",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Elena",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2475154/img",
@@ -4087,7 +4087,7 @@
     },
     {
         "id": "tt0397491",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Justiça",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0397491/img",
@@ -4099,7 +4099,7 @@
     },
     {
         "id": "tt0440712",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Peões",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0440712/img",
@@ -4111,7 +4111,7 @@
     },
     {
         "id": "tt5721734",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cinema Novo",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt5721734/img",
@@ -4123,7 +4123,7 @@
     },
     {
         "id": "tt2399493",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Música Segundo Tom Jobim",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2399493/img",
@@ -4137,7 +4137,7 @@
     },
     {
         "id": "tt0261936",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Que Bom Te Ver Viva",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0261936/img",
@@ -4150,7 +4150,7 @@
     },
     {
         "id": "tt5523168",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Paixão de JL",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt5523168/img",
@@ -4162,7 +4162,7 @@
     },
     {
         "id": "tt1688465",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Terra Deu, Terra Come",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1688465/img",
@@ -4174,7 +4174,7 @@
     },
     {
         "id": "tt1268204",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lixo Extraordinário",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1268204/img",
@@ -4186,7 +4186,7 @@
     },
     {
         "id": "tt3634636",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Cidade é Uma Só?",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt3634636/img",
@@ -4198,7 +4198,7 @@
     },
     {
         "id": "tt0436784",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Soy Cuba, O Mamute Siberiano",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0436784/img",
@@ -4210,7 +4210,7 @@
     },
     {
         "id": "tt0270833",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Anos JK - Uma Trajetória Política",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0270833/img",
@@ -4222,7 +4222,7 @@
     },
     {
         "id": "tt0290902",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tudo É Brasil",
         "releaseInfo": "1997",
         "poster": "https://images.metahub.space/poster/medium/tt0290902/img",
@@ -4234,7 +4234,7 @@
     },
     {
         "id": "tt1517095",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Loki: Arnaldo Baptista",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1517095/img",
@@ -4248,7 +4248,7 @@
     },
     {
         "id": "tt0796979",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Fim e o Princípio",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0796979/img",
@@ -4260,7 +4260,7 @@
     },
     {
         "id": "tt0360833",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nelson Freire",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0360833/img",
@@ -4274,7 +4274,7 @@
     },
     {
         "id": "tt2364250",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Doméstica",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2364250/img",
@@ -4288,7 +4288,7 @@
     },
     {
         "id": "tt0270253",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Braços Cruzados, Máquinas Paradas",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt0270253/img",
@@ -4300,7 +4300,7 @@
     },
     {
         "id": "tt1532945",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dzi Croquettes",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1532945/img",
@@ -4316,7 +4316,7 @@
     },
     {
         "id": "tt0288268",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Triste Trópico",
         "releaseInfo": "1974",
         "poster": "https://images.metahub.space/poster/medium/tt0288268/img",
@@ -4328,7 +4328,7 @@
     },
     {
         "id": "tt2634236",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Dia que Durou 21 Anos",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2634236/img",
@@ -4342,7 +4342,7 @@
     },
     {
         "id": "tt1440286",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Simonal: Ninguém Sabe o Duro que Dei",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1440286/img",
@@ -4356,7 +4356,7 @@
     },
     {
         "id": "tt1543632",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Pan-Cinema Permanente",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1543632/img",
@@ -4368,7 +4368,7 @@
     },
     {
         "id": "tt1827391",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Diário de Uma Busca",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1827391/img",
@@ -4383,7 +4383,7 @@
     },
     {
         "id": "tt2211031",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Theodorico, Imperador do Sertão",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt2211031/img",
@@ -4395,7 +4395,7 @@
     },
     {
         "id": "tt2752276",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Dias com Ele",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2752276/img",
@@ -4410,7 +4410,7 @@
     },
     {
         "id": "tt0318781",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Um Passaporte Húngaro",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0318781/img",
@@ -4422,7 +4422,7 @@
     },
     {
         "id": "tt2948414",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mataram meu irmão",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt2948414/img",
@@ -4437,7 +4437,7 @@
     },
     {
         "id": "tt1438492",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Juízo",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1438492/img",
@@ -4449,7 +4449,7 @@
     },
     {
         "id": "tt2246901",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Pacific",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt2246901/img",
@@ -4461,7 +4461,7 @@
     },
     {
         "id": "tt4287610",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Branco Sai, Preto Fica",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt4287610/img",
@@ -4474,7 +4474,7 @@
     },
     {
         "id": "tt0138660",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "No País das Amazonas",
         "releaseInfo": "1922",
         "poster": "https://images.metahub.space/poster/medium/tt0138660/img",
@@ -4486,7 +4486,7 @@
     },
     {
         "id": "tt3096778",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cássia Eller",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt3096778/img",
@@ -4500,7 +4500,7 @@
     },
     {
         "id": "tt0399285",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Linha de Montagem",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0399285/img",
@@ -4512,7 +4512,7 @@
     },
     {
         "id": "tt3661594",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Mercado de Notícias",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt3661594/img",
@@ -4525,7 +4525,7 @@
     },
     {
         "id": "tt0493175",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Vinicius",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0493175/img",
@@ -4539,7 +4539,7 @@
     },
     {
         "id": "tt6417676",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Orestes",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt6417676/img",
@@ -4551,7 +4551,7 @@
     },
     {
         "id": "tt0395560",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Glauber o Filme, Labirinto do Brasil",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0395560/img",
@@ -4563,7 +4563,7 @@
     },
     {
         "id": "tt1843212",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Moscou",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1843212/img",
@@ -4575,7 +4575,7 @@
     },
     {
         "id": "tt2015288",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Andarilho",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt2015288/img",
@@ -4587,7 +4587,7 @@
     },
     {
         "id": "tt1880377",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Céu Sobre os Ombros",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1880377/img",
@@ -4600,7 +4600,7 @@
     },
     {
         "id": "tt0430868",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "33",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0430868/img",
@@ -4612,7 +4612,7 @@
     },
     {
         "id": "tt2139601",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "As canções",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt2139601/img",
@@ -4624,7 +4624,7 @@
     },
     {
         "id": "tt0247989",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Doces Bárbaros",
         "releaseInfo": "1977",
         "poster": "https://images.metahub.space/poster/medium/tt0247989/img",
@@ -4637,7 +4637,7 @@
     },
     {
         "id": "tt3914546",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Já Visto Jamais Visto",
         "releaseInfo": "2013",
         "poster": "https://images.metahub.space/poster/medium/tt3914546/img",
@@ -4650,7 +4650,7 @@
     },
     {
         "id": "tt1784599",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Raul: O Início, o Fim e o Meio",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt1784599/img",
@@ -4663,7 +4663,7 @@
     },
     {
         "id": "tt0445387",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Wilsinho Galiléia",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0445387/img",
@@ -4675,7 +4675,7 @@
     },
     {
         "id": "tt0405677",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Alma do Osso",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0405677/img",
@@ -4687,7 +4687,7 @@
     },
     {
         "id": "tt0933036",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Hércules 56",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0933036/img",
@@ -4699,7 +4699,7 @@
     },
     {
         "id": "tt3332704",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mr. Sganzerla - Os Signos da Luz",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt3332704/img",
@@ -4711,7 +4711,7 @@
     },
     {
         "id": "tt3652622",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Homem Comum",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt3652622/img",
@@ -4724,7 +4724,7 @@
     },
     {
         "id": "tt3679458",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "As Hiper Mulheres",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt3679458/img",
@@ -4736,7 +4736,7 @@
     },
     {
         "id": "tt6654698",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Imagens do Estado Novo 1937-45",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt6654698/img",
@@ -4748,7 +4748,7 @@
     },
     {
         "id": "tt0145115",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nem Tudo é Verdade",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0145115/img",
@@ -4760,7 +4760,7 @@
     },
     {
         "id": "tt0360421",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bethânia Bem de Perto - A Propósito de um Show",
         "releaseInfo": "1966",
         "poster": "https://images.metahub.space/poster/medium/tt0360421/img",
@@ -4773,7 +4773,7 @@
     },
     {
         "id": "tt3018550",
-        "type": "BR Series",
+        "type": "series",
         "name": "Rancho Alegre",
         "releaseInfo": "1950–1954",
         "poster": "https://images.metahub.space/poster/medium/tt3018550/img",
@@ -4786,7 +4786,7 @@
     },
     {
         "id": "tt0177941",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nadando em Dinheiro",
         "releaseInfo": "1952",
         "poster": "https://images.metahub.space/poster/medium/tt0177941/img",
@@ -4798,7 +4798,7 @@
     },
     {
         "id": "tt0178010",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Sai da Frente",
         "releaseInfo": "1952",
         "poster": "https://images.metahub.space/poster/medium/tt0178010/img",
@@ -4810,7 +4810,7 @@
     },
     {
         "id": "tt0177604",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Candinho",
         "releaseInfo": "1953",
         "poster": "https://images.metahub.space/poster/medium/tt0177604/img",
@@ -4824,7 +4824,7 @@
     },
     {
         "id": "tt0236083",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Carrocinha",
         "releaseInfo": "1955",
         "poster": "https://images.metahub.space/poster/medium/tt0236083/img",
@@ -4836,7 +4836,7 @@
     },
     {
         "id": "tt0197502",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Fuzileiro do Amor",
         "releaseInfo": "1956",
         "poster": "https://images.metahub.space/poster/medium/tt0197502/img",
@@ -4850,7 +4850,7 @@
     },
     {
         "id": "tt0181552",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Gato de Madame",
         "releaseInfo": "1957",
         "poster": "https://images.metahub.space/poster/medium/tt0181552/img",
@@ -4862,7 +4862,7 @@
     },
     {
         "id": "tt0154958",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Noivo da Girafa",
         "releaseInfo": "1957",
         "poster": "https://images.metahub.space/poster/medium/tt0154958/img",
@@ -4875,7 +4875,7 @@
     },
     {
         "id": "tt0178332",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Chofer de Praça",
         "releaseInfo": "1958",
         "poster": "https://images.metahub.space/poster/medium/tt0178332/img",
@@ -4887,7 +4887,7 @@
     },
     {
         "id": "tt0193813",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Chico Fumaça",
         "releaseInfo": "1958",
         "poster": "https://images.metahub.space/poster/medium/tt0193813/img",
@@ -4900,7 +4900,7 @@
     },
     {
         "id": "tt0178657",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Jeca Tatu",
         "releaseInfo": "1959",
         "poster": "https://images.metahub.space/poster/medium/tt0178657/img",
@@ -4912,7 +4912,7 @@
     },
     {
         "id": "tt0191667",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Zé do Periquito",
         "releaseInfo": "1960",
         "poster": "https://images.metahub.space/poster/medium/tt0191667/img",
@@ -4924,7 +4924,7 @@
     },
     {
         "id": "tt0191585",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tristeza do Jeca",
         "releaseInfo": "1961",
         "poster": "https://images.metahub.space/poster/medium/tt0191585/img",
@@ -4938,7 +4938,7 @@
     },
     {
         "id": "tt0194501",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Vendedor de Linguiça",
         "releaseInfo": "1962",
         "poster": "https://images.metahub.space/poster/medium/tt0194501/img",
@@ -4950,7 +4950,7 @@
     },
     {
         "id": "tt0193801",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Casinha Pequenina",
         "releaseInfo": "1963",
         "poster": "https://images.metahub.space/poster/medium/tt0193801/img",
@@ -4963,7 +4963,7 @@
     },
     {
         "id": "tt0190991",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Meu Japão Brasileiro",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0190991/img",
@@ -4975,7 +4975,7 @@
     },
     {
         "id": "tt0194092",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Lamparina",
         "releaseInfo": "1964",
         "poster": "https://images.metahub.space/poster/medium/tt0194092/img",
@@ -4987,7 +4987,7 @@
     },
     {
         "id": "tt0234543",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Puritano da Rua Augusta",
         "releaseInfo": "1965",
         "poster": "https://images.metahub.space/poster/medium/tt0234543/img",
@@ -4999,7 +4999,7 @@
     },
     {
         "id": "tt0139948",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Corintiano",
         "releaseInfo": "1967",
         "poster": "https://images.metahub.space/poster/medium/tt0139948/img",
@@ -5013,7 +5013,7 @@
     },
     {
         "id": "tt0191210",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Jeca e a Freira",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0191210/img",
@@ -5026,7 +5026,7 @@
     },
     {
         "id": "tt0191314",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "No Paraíso das Solteironas",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0191314/img",
@@ -5038,7 +5038,7 @@
     },
     {
         "id": "tt0236817",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Uma Pistola para Djeca",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0236817/img",
@@ -5051,7 +5051,7 @@
     },
     {
         "id": "tt0236020",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Betão Ronca Ferro",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0236020/img",
@@ -5063,7 +5063,7 @@
     },
     {
         "id": "tt0236266",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Grande Xerife",
         "releaseInfo": "1972",
         "poster": "https://images.metahub.space/poster/medium/tt0236266/img",
@@ -5076,7 +5076,7 @@
     },
     {
         "id": "tt0072014",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Portugal... Minha Saudade",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt0072014/img",
@@ -5089,7 +5089,7 @@
     },
     {
         "id": "tt0191604",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Um Caipira em Bariloche",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt0191604/img",
@@ -5101,7 +5101,7 @@
     },
     {
         "id": "tt0191209",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Jeca Macumbeiro",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt0191209/img",
@@ -5113,7 +5113,7 @@
     },
     {
         "id": "tt0191208",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Jeca Contra o Capeta",
         "releaseInfo": "1976",
         "poster": "https://images.metahub.space/poster/medium/tt0191208/img",
@@ -5126,7 +5126,7 @@
     },
     {
         "id": "tt0233065",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Jecão... Um Fofoqueiro no Céu",
         "releaseInfo": "1977",
         "poster": "https://images.metahub.space/poster/medium/tt0233065/img",
@@ -5139,7 +5139,7 @@
     },
     {
         "id": "tt0233972",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Jeca e Seu Filho Preto",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0233972/img",
@@ -5152,7 +5152,7 @@
     },
     {
         "id": "tt0236010",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Banda das Velhas Virgens",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt0236010/img",
@@ -5165,7 +5165,7 @@
     },
     {
         "id": "tt0236339",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Jeca e a Égua Milagrosa",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0236339/img",
@@ -5177,7 +5177,7 @@
     },
     {
         "id": "tt0312768",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Hitler IIIº Mundo",
         "releaseInfo": "1968",
         "poster": "https://images.metahub.space/poster/medium/tt0312768/img",
@@ -5188,7 +5188,7 @@
     },
     {
         "id": "tt0181998",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Carnaval Atlântida",
         "releaseInfo": "1952",
         "poster": "https://images.metahub.space/poster/medium/tt0181998/img",
@@ -5200,7 +5200,7 @@
     },
     {
         "id": "tt0181949",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Família do Barulho",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0181949/img",
@@ -5211,7 +5211,7 @@
     },
     {
         "id": "tt0259944",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Copacabana Mon Amour",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0259944/img",
@@ -5222,7 +5222,7 @@
     },
     {
         "id": "tt0088092",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "As Sete Vampiras",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0088092/img",
@@ -5235,7 +5235,7 @@
     },
     {
         "id": "tt0196063",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Saci",
         "releaseInfo": "1953",
         "poster": "https://images.metahub.space/poster/medium/tt0196063/img",
@@ -5247,7 +5247,7 @@
     },
     {
         "id": "tt0027278",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Alô Alô Carnaval",
         "releaseInfo": "1936",
         "poster": "https://images.metahub.space/poster/medium/tt0027278/img",
@@ -5259,7 +5259,7 @@
     },
     {
         "id": "tt0182147",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Gigante da América",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0182147/img",
@@ -5271,7 +5271,7 @@
     },
     {
         "id": "tt0197139",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Auto da Compadecida",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0197139/img",
@@ -5285,7 +5285,7 @@
     },
     {
         "id": "tt0132891",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bonitinha, mas Ordinária",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt0132891/img",
@@ -5296,7 +5296,7 @@
     },
     {
         "id": "tt0166709",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Memórias Póstumas de Brás Cubas",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0166709/img",
@@ -5308,7 +5308,7 @@
     },
     {
         "id": "tt0184772",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Navalha na Carne",
         "releaseInfo": "1969",
         "poster": "https://images.metahub.space/poster/medium/tt0184772/img",
@@ -5319,7 +5319,7 @@
     },
     {
         "id": "tt0489458",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Cheiro do Ralo",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0489458/img",
@@ -5331,7 +5331,7 @@
     },
     {
         "id": "tt0091686",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ópera do Malandro",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0091686/img",
@@ -5343,7 +5343,7 @@
     },
     {
         "id": "tt0071757",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Lilian M.: Relatório Confidencial",
         "releaseInfo": "1975",
         "poster": "https://images.metahub.space/poster/medium/tt0071757/img",
@@ -5354,7 +5354,7 @@
     },
     {
         "id": "tt1702002",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Luz nas Trevas: A Volta do Bandido da Luz Vermelha",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1702002/img",
@@ -5365,7 +5365,7 @@
     },
     {
         "id": "tt0119815",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Que é Isso, Companheiro?",
         "releaseInfo": "1997",
         "poster": "https://images.metahub.space/poster/medium/tt0119815/img",
@@ -5379,7 +5379,7 @@
     },
     {
         "id": "tt0084650",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Segredo da Múmia",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0084650/img",
@@ -5391,7 +5391,7 @@
     },
     {
         "id": "tt0067006",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Dois Perdidos numa Noite Suja",
         "releaseInfo": "1971",
         "poster": "https://images.metahub.space/poster/medium/tt0067006/img",
@@ -5402,7 +5402,7 @@
     },
     {
         "id": "tt8467790",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Augusto Boal e o Teatro do Oprimido",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt8467790/img",
@@ -5413,7 +5413,7 @@
     },
     {
         "id": "tt6645182",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Tungstênio",
         "releaseInfo": "2018",
         "poster": "https://images.metahub.space/poster/medium/tt6645182/img",
@@ -5424,7 +5424,7 @@
     },
     {
         "id": "tt2043879",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Histórias que Só Existem Quando Lembradas",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt2043879/img",
@@ -5435,7 +5435,7 @@
     },
     {
         "id": "tt1292565",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Homem que Engarrafava Nuvens",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1292565/img",
@@ -5446,7 +5446,7 @@
     },
     {
         "id": "tt2332712",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Boa Sorte, Meu Amor",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2332712/img",
@@ -5457,7 +5457,7 @@
     },
     {
         "id": "tt0895777",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Ó Paí, Ó",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt0895777/img",
@@ -5469,7 +5469,7 @@
     },
     {
         "id": "tt0139661",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Trapalhões no Rabo do Cometa",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0139661/img",
@@ -5483,7 +5483,7 @@
     },
     {
         "id": "tt4012424",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Filme da Minha Vida",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt4012424/img",
@@ -5494,7 +5494,7 @@
     },
     {
         "id": "tt0082328",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Encarnação do Demônio",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt0082328/img",
@@ -5505,7 +5505,7 @@
     },
     {
         "id": "tt0086871",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Além da Paixão",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0086871/img",
@@ -5516,7 +5516,7 @@
     },
     {
         "id": "tt4633984",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Democracia em Preto e Branco",
         "releaseInfo": "2014",
         "poster": "https://images.metahub.space/poster/medium/tt4633984/img",
@@ -5529,7 +5529,7 @@
     },
     {
         "id": "tt6390668",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Vida Invisível",
         "releaseInfo": "2019",
         "poster": "https://images.metahub.space/poster/medium/tt6390668/img",
@@ -5540,7 +5540,7 @@
     },
     {
         "id": "tt0109380",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Carlota Joaquina, Princesa do Brazil",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0109380/img",
@@ -5553,7 +5553,7 @@
     },
     {
         "id": "tt0367859",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Homem que Copiava",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0367859/img",
@@ -5567,7 +5567,7 @@
     },
     {
         "id": "tt0182378",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Quem Roubou Meu Samba?",
         "releaseInfo": "1959",
         "poster": "https://images.metahub.space/poster/medium/tt0182378/img",
@@ -5579,7 +5579,7 @@
     },
     {
         "id": "tt1663661",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Era Uma Vez Eu, Verônica",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt1663661/img",
@@ -5590,7 +5590,7 @@
     },
     {
         "id": "tt0145026",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Kenoma",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0145026/img",
@@ -5601,7 +5601,7 @@
     },
     {
         "id": "tt0241708",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Matou a Família e Foi ao Cinema",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt0241708/img",
@@ -5613,7 +5613,7 @@
     },
     {
         "id": "tt5841312",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Eu Sou Carlos Imperial",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt5841312/img",
@@ -5624,7 +5624,7 @@
     },
     {
         "id": "tt7986672",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Morto Não Fala",
         "releaseInfo": "2018",
         "poster": "https://images.metahub.space/poster/medium/tt7986672/img",
@@ -5637,7 +5637,7 @@
     },
     {
         "id": "tt0314009",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Durval Discos",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0314009/img",
@@ -5651,7 +5651,7 @@
     },
     {
         "id": "tt0846109",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Trair e Coçar é Só Começar",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0846109/img",
@@ -5662,7 +5662,7 @@
     },
     {
         "id": "tt0240635",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Joelma 23º Andar",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0240635/img",
@@ -5673,7 +5673,7 @@
     },
     {
         "id": "tt0083552",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Amor Estranho Amor",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0083552/img",
@@ -5684,7 +5684,7 @@
     },
     {
         "id": "tt0834944",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Quarta B",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0834944/img",
@@ -5696,7 +5696,7 @@
     },
     {
         "id": "tt5060636",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "A Frente Fria que a Chuva Traz",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt5060636/img",
@@ -5707,7 +5707,7 @@
     },
     {
         "id": "tt1653653",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Corações Sujos",
         "releaseInfo": "2011",
         "poster": "https://images.metahub.space/poster/medium/tt1653653/img",
@@ -5720,7 +5720,7 @@
     },
     {
         "id": "tt1329396",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mangue Negro",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1329396/img",
@@ -5731,7 +5731,7 @@
     },
     {
         "id": "tt6042392",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Mal Nosso",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt6042392/img",
@@ -5744,7 +5744,7 @@
     },
     {
         "id": "tt2342810",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Cine Holliúdy",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2342810/img",
@@ -5757,7 +5757,7 @@
     },
     {
         "id": "tt0241682",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Loucuras, o Bumbum de Ouro",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt0241682/img",
@@ -5768,7 +5768,7 @@
     },
     {
         "id": "tt6293516",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Bingo: O Rei das Manhãs",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt6293516/img",
@@ -5781,7 +5781,7 @@
     },
     {
         "id": "tt0274707",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Os Paspalhões em Pinóquio 2000",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0274707/img",
@@ -5794,7 +5794,7 @@
     },
     {
         "id": "tt7746728",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Sol Alegria",
         "releaseInfo": "2018",
         "poster": "https://images.metahub.space/poster/medium/tt7746728/img",
@@ -5806,7 +5806,7 @@
     },
     {
         "id": "tt0184786",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Nocturnu",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0184786/img",
@@ -5818,7 +5818,7 @@
     },
     {
         "id": "tt0443012",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "O Gato de Botas Extraterrestre",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0443012/img",
@@ -5830,7 +5830,7 @@
     },
     {
         "id": "tt0138258",
-        "type": "BR Series",
+        "type": "series",
         "name": "Roque Santeiro",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0138258/img",
@@ -5845,7 +5845,7 @@
     },
     {
         "id": "tt0140759",
-        "type": "BR Series",
+        "type": "series",
         "name": "Renascer",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0140759/img",
@@ -5858,7 +5858,7 @@
     },
     {
         "id": "tt19267756",
-        "type": "BR Series",
+        "type": "series",
         "name": "Pantanal",
         "releaseInfo": "2022",
         "poster": "https://images.metahub.space/poster/medium/tt19267756/img",
@@ -5872,7 +5872,7 @@
     },
     {
         "id": "tt0149539",
-        "type": "BR Series",
+        "type": "series",
         "name": "Vale Tudo",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt0149539/img",
@@ -5887,7 +5887,7 @@
     },
     {
         "id": "tt0138267",
-        "type": "BR Series",
+        "type": "series",
         "name": "Tieta",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0138267/img",
@@ -5900,7 +5900,7 @@
     },
     {
         "id": "tt0149517",
-        "type": "BR Series",
+        "type": "series",
         "name": "Roda de Fogo",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0149517/img",
@@ -5913,7 +5913,7 @@
     },
     {
         "id": "tt0145612",
-        "type": "BR Series",
+        "type": "series",
         "name": "Guerra dos Sexos",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0145612/img",
@@ -5927,7 +5927,7 @@
     },
     {
         "id": "tt0209834",
-        "type": "BR Series",
+        "type": "series",
         "name": "Um Sonho a Mais",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0209834/img",
@@ -5938,7 +5938,7 @@
     },
     {
         "id": "tt0145602",
-        "type": "BR Series",
+        "type": "series",
         "name": "Cambalacho",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0145602/img",
@@ -5952,7 +5952,7 @@
     },
     {
         "id": "tt0149420",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Bem-Amado",
         "releaseInfo": "1973",
         "poster": "https://images.metahub.space/poster/medium/tt0149420/img",
@@ -5966,7 +5966,7 @@
     },
     {
         "id": "tt0138251",
-        "type": "BR Series",
+        "type": "series",
         "name": "Pedra Sobre Pedra",
         "releaseInfo": "1992",
         "poster": "https://images.metahub.space/poster/medium/tt0138251/img",
@@ -5979,7 +5979,7 @@
     },
     {
         "id": "tt0385387",
-        "type": "BR Series",
+        "type": "series",
         "name": "Celebridade",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0385387/img",
@@ -5993,7 +5993,7 @@
     },
     {
         "id": "tt0138257",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Rei do Gado",
         "releaseInfo": "1996",
         "poster": "https://images.metahub.space/poster/medium/tt0138257/img",
@@ -6008,7 +6008,7 @@
     },
     {
         "id": "tt0155444",
-        "type": "BR Series",
+        "type": "series",
         "name": "Rainha da Sucata",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0155444/img",
@@ -6021,7 +6021,7 @@
     },
     {
         "id": "tt0144066",
-        "type": "BR Series",
+        "type": "series",
         "name": "Selva de Pedra",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0144066/img",
@@ -6034,7 +6034,7 @@
     },
     {
         "id": "tt0138270",
-        "type": "BR Series",
+        "type": "series",
         "name": "Top Model",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0138270/img",
@@ -6047,7 +6047,7 @@
     },
     {
         "id": "tt0142050",
-        "type": "BR Series",
+        "type": "series",
         "name": "Sassaricando",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0142050/img",
@@ -6060,7 +6060,7 @@
     },
     {
         "id": "tt0138274",
-        "type": "BR Series",
+        "type": "series",
         "name": "Vereda Tropical",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt0138274/img",
@@ -6073,7 +6073,7 @@
     },
     {
         "id": "tt0140769",
-        "type": "BR Series",
+        "type": "series",
         "name": "Vamp",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt0140769/img",
@@ -6091,7 +6091,7 @@
     },
     {
         "id": "tt0149461",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Gata Comeu",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0149461/img",
@@ -6106,7 +6106,7 @@
     },
     {
         "id": "tt0209804",
-        "type": "BR Series",
+        "type": "series",
         "name": "Sol de Verão",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0209804/img",
@@ -6119,7 +6119,7 @@
     },
     {
         "id": "tt0209819",
-        "type": "BR Series",
+        "type": "series",
         "name": "Ti Ti Ti",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0209819/img",
@@ -6132,7 +6132,7 @@
     },
     {
         "id": "tt0144043",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Dono do Mundo",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt0144043/img",
@@ -6145,7 +6145,7 @@
     },
     {
         "id": "tt0138278",
-        "type": "BR Series",
+        "type": "series",
         "name": "Água Viva",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0138278/img",
@@ -6158,7 +6158,7 @@
     },
     {
         "id": "tt0147784",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Outro",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0147784/img",
@@ -6171,7 +6171,7 @@
     },
     {
         "id": "tt0985073",
-        "type": "BR Series",
+        "type": "series",
         "name": "Paraíso Tropical",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt0985073/img",
@@ -6185,7 +6185,7 @@
     },
     {
         "id": "tt0209564",
-        "type": "BR Series",
+        "type": "series",
         "name": "Brega & Chique",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0209564/img",
@@ -6199,7 +6199,7 @@
     },
     {
         "id": "tt0145601",
-        "type": "BR Series",
+        "type": "series",
         "name": "Brilhante",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt0145601/img",
@@ -6212,7 +6212,7 @@
     },
     {
         "id": "tt0155443",
-        "type": "BR Series",
+        "type": "series",
         "name": "Que Rei Sou Eu?",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0155443/img",
@@ -6225,7 +6225,7 @@
     },
     {
         "id": "tt0138222",
-        "type": "BR Series",
+        "type": "series",
         "name": "Baila Comigo",
         "releaseInfo": "1981",
         "poster": "https://images.metahub.space/poster/medium/tt0138222/img",
@@ -6238,7 +6238,7 @@
     },
     {
         "id": "tt2303077",
-        "type": "BR Series",
+        "type": "series",
         "name": "Avenida Brasil",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2303077/img",
@@ -6253,7 +6253,7 @@
     },
     {
         "id": "tt0209610",
-        "type": "BR Series",
+        "type": "series",
         "name": "Elas por Elas",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0209610/img",
@@ -6267,7 +6267,7 @@
     },
     {
         "id": "tt0154086",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Salvador da Pátria",
         "releaseInfo": "1989",
         "poster": "https://images.metahub.space/poster/medium/tt0154086/img",
@@ -6280,7 +6280,7 @@
     },
     {
         "id": "tt0205635",
-        "type": "BR Series",
+        "type": "series",
         "name": "Final Feliz",
         "releaseInfo": "1982",
         "poster": "https://images.metahub.space/poster/medium/tt0205635/img",
@@ -6293,7 +6293,7 @@
     },
     {
         "id": "tt0138256",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Próxima Vítima",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0138256/img",
@@ -6309,7 +6309,7 @@
     },
     {
         "id": "tt0209590",
-        "type": "BR Series",
+        "type": "series",
         "name": "Corpo a Corpo",
         "releaseInfo": "1984",
         "poster": "https://images.metahub.space/poster/medium/tt0209590/img",
@@ -6322,7 +6322,7 @@
     },
     {
         "id": "tt1256139",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Favorita",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1256139/img",
@@ -6336,7 +6336,7 @@
     },
     {
         "id": "tt29259067",
-        "type": "BR Series",
+        "type": "series",
         "name": "Renascer",
         "releaseInfo": "2024",
         "poster": "https://images.metahub.space/poster/medium/tt29259067/img",
@@ -6348,7 +6348,7 @@
     },
     {
         "id": "tt0143035",
-        "type": "BR Series",
+        "type": "series",
         "name": "Dona Beija",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0143035/img",
@@ -6361,7 +6361,7 @@
     },
     {
         "id": "tt0142051",
-        "type": "BR Series",
+        "type": "series",
         "name": "Sinhá Moça",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0142051/img",
@@ -6374,7 +6374,7 @@
     },
     {
         "id": "tt0209643",
-        "type": "BR Series",
+        "type": "series",
         "name": "Hipertensão",
         "releaseInfo": "1986",
         "poster": "https://images.metahub.space/poster/medium/tt0209643/img",
@@ -6388,7 +6388,7 @@
     },
     {
         "id": "tt0204085",
-        "type": "BR Series",
+        "type": "series",
         "name": "Direito de Amar",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0204085/img",
@@ -6401,7 +6401,7 @@
     },
     {
         "id": "tt0209552",
-        "type": "BR Series",
+        "type": "series",
         "name": "Bambolê",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0209552/img",
@@ -6414,7 +6414,7 @@
     },
     {
         "id": "tt0143052",
-        "type": "BR Series",
+        "type": "series",
         "name": "Mandala",
         "releaseInfo": "1987",
         "poster": "https://images.metahub.space/poster/medium/tt0143052/img",
@@ -6427,7 +6427,7 @@
     },
     {
         "id": "tt0138236",
-        "type": "BR Series",
+        "type": "series",
         "name": "Fera Radical",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt0138236/img",
@@ -6440,7 +6440,7 @@
     },
     {
         "id": "tt0149419",
-        "type": "BR Series",
+        "type": "series",
         "name": "Bebê a Bordo",
         "releaseInfo": "1988",
         "poster": "https://images.metahub.space/poster/medium/tt0149419/img",
@@ -6455,7 +6455,7 @@
     },
     {
         "id": "tt0142042",
-        "type": "BR Series",
+        "type": "series",
         "name": "Meu Bem, Meu Mal",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0142042/img",
@@ -6468,7 +6468,7 @@
     },
     {
         "id": "tt0209555",
-        "type": "BR Series",
+        "type": "series",
         "name": "Barriga de Aluguel",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0209555/img",
@@ -6481,7 +6481,7 @@
     },
     {
         "id": "tt0209546",
-        "type": "BR Series",
+        "type": "series",
         "name": "Araponga",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0209546/img",
@@ -6496,7 +6496,7 @@
     },
     {
         "id": "tt0209644",
-        "type": "BR Series",
+        "type": "series",
         "name": "A História de Ana Raio e Zé Trovão",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0209644/img",
@@ -6509,7 +6509,7 @@
     },
     {
         "id": "tt0142038",
-        "type": "BR Series",
+        "type": "series",
         "name": "Felicidade",
         "releaseInfo": "1991",
         "poster": "https://images.metahub.space/poster/medium/tt0142038/img",
@@ -6522,7 +6522,7 @@
     },
     {
         "id": "tt0202747",
-        "type": "BR Series",
+        "type": "series",
         "name": "Perigosas Peruas",
         "releaseInfo": "1992",
         "poster": "https://images.metahub.space/poster/medium/tt0202747/img",
@@ -6536,7 +6536,7 @@
     },
     {
         "id": "tt0149443",
-        "type": "BR Series",
+        "type": "series",
         "name": "Despedida de Solteiro",
         "releaseInfo": "1992",
         "poster": "https://images.metahub.space/poster/medium/tt0149443/img",
@@ -6549,7 +6549,7 @@
     },
     {
         "id": "tt0202726",
-        "type": "BR Series",
+        "type": "series",
         "name": "Deus Nos Acuda",
         "releaseInfo": "1992",
         "poster": "https://images.metahub.space/poster/medium/tt0202726/img",
@@ -6564,7 +6564,7 @@
     },
     {
         "id": "tt0146371",
-        "type": "BR Series",
+        "type": "series",
         "name": "De Corpo e Alma",
         "releaseInfo": "1992",
         "poster": "https://images.metahub.space/poster/medium/tt0146371/img",
@@ -6577,7 +6577,7 @@
     },
     {
         "id": "tt0138247",
-        "type": "BR Series",
+        "type": "series",
         "name": "Mulheres de Areia",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0138247/img",
@@ -6590,7 +6590,7 @@
     },
     {
         "id": "tt0209679",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Mapa da Mina",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0209679/img",
@@ -6601,7 +6601,7 @@
     },
     {
         "id": "tt0209808",
-        "type": "BR Series",
+        "type": "series",
         "name": "Sonho Meu",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0209808/img",
@@ -6615,7 +6615,7 @@
     },
     {
         "id": "tt0138235",
-        "type": "BR Series",
+        "type": "series",
         "name": "Fera Ferida",
         "releaseInfo": "1993",
         "poster": "https://images.metahub.space/poster/medium/tt0138235/img",
@@ -6628,7 +6628,7 @@
     },
     {
         "id": "tt0149541",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Viagem",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0149541/img",
@@ -6642,7 +6642,7 @@
     },
     {
         "id": "tt0138275",
-        "type": "BR Series",
+        "type": "series",
         "name": "Pátria Minha",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0138275/img",
@@ -6655,7 +6655,7 @@
     },
     {
         "id": "tt0181249",
-        "type": "BR Series",
+        "type": "series",
         "name": "Quatro por Quatro",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0181249/img",
@@ -6669,7 +6669,7 @@
     },
     {
         "id": "tt0143051",
-        "type": "BR Series",
+        "type": "series",
         "name": "Mandacaru",
         "releaseInfo": "1997",
         "poster": "https://images.metahub.space/poster/medium/tt0143051/img",
@@ -6687,7 +6687,7 @@
     },
     {
         "id": "tt0138241",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Indomada",
         "releaseInfo": "1997",
         "poster": "https://images.metahub.space/poster/medium/tt0138241/img",
@@ -6700,7 +6700,7 @@
     },
     {
         "id": "tt0249299",
-        "type": "BR Series",
+        "type": "series",
         "name": "Laços de Família",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0249299/img",
@@ -6713,7 +6713,7 @@
     },
     {
         "id": "tt0420449",
-        "type": "BR Series",
+        "type": "series",
         "name": "Senhora do Destino",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0420449/img",
@@ -6727,7 +6727,7 @@
     },
     {
         "id": "tt0138254",
-        "type": "BR Series",
+        "type": "series",
         "name": "Por Amor",
         "releaseInfo": "1997",
         "poster": "https://images.metahub.space/poster/medium/tt0138254/img",
@@ -6740,7 +6740,7 @@
     },
     {
         "id": "tt0202765",
-        "type": "BR Series",
+        "type": "series",
         "name": "Terra Nostra",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0202765/img",
@@ -6753,7 +6753,7 @@
     },
     {
         "id": "tt0251503",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Cravo e a Rosa",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0251503/img",
@@ -6767,7 +6767,7 @@
     },
     {
         "id": "tt0289800",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Clone",
         "releaseInfo": "2001",
         "poster": "https://images.metahub.space/poster/medium/tt0289800/img",
@@ -6781,7 +6781,7 @@
     },
     {
         "id": "tt0288401",
-        "type": "BR Series",
+        "type": "series",
         "name": "Esperança",
         "releaseInfo": "2002",
         "poster": "https://images.metahub.space/poster/medium/tt0288401/img",
@@ -6794,7 +6794,7 @@
     },
     {
         "id": "tt0358326",
-        "type": "BR Series",
+        "type": "series",
         "name": "Mulheres Apaixonadas",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0358326/img",
@@ -6807,7 +6807,7 @@
     },
     {
         "id": "tt0419314",
-        "type": "BR Series",
+        "type": "series",
         "name": "Cabocla",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0419314/img",
@@ -6820,7 +6820,7 @@
     },
     {
         "id": "tt0142036",
-        "type": "BR Series",
+        "type": "series",
         "name": "Escrava Isaura",
         "releaseInfo": "1976",
         "poster": "https://images.metahub.space/poster/medium/tt0142036/img",
@@ -6834,7 +6834,7 @@
     },
     {
         "id": "tt0488259",
-        "type": "BR Series",
+        "type": "series",
         "name": "Belíssima",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0488259/img",
@@ -6848,7 +6848,7 @@
     },
     {
         "id": "tt0209826",
-        "type": "BR Series",
+        "type": "series",
         "name": "Tropicaliente",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0209826/img",
@@ -6861,7 +6861,7 @@
     },
     {
         "id": "tt0202742",
-        "type": "BR Series",
+        "type": "series",
         "name": "Mico Preto",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0202742/img",
@@ -6874,7 +6874,7 @@
     },
     {
         "id": "tt1360961",
-        "type": "BR Series",
+        "type": "series",
         "name": "Caminho das Índias",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1360961/img",
@@ -6888,7 +6888,7 @@
     },
     {
         "id": "tt2476828",
-        "type": "BR Series",
+        "type": "series",
         "name": "Salve Jorge",
         "releaseInfo": "2012",
         "poster": "https://images.metahub.space/poster/medium/tt2476828/img",
@@ -6901,7 +6901,7 @@
     },
     {
         "id": "tt5620074",
-        "type": "BR Series",
+        "type": "series",
         "name": "Velho Chico",
         "releaseInfo": "2016",
         "poster": "https://images.metahub.space/poster/medium/tt5620074/img",
@@ -6915,7 +6915,7 @@
     },
     {
         "id": "tt9158900",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Sétimo Guardião",
         "releaseInfo": "2018",
         "poster": "https://images.metahub.space/poster/medium/tt9158900/img",
@@ -6927,7 +6927,7 @@
     },
     {
         "id": "tt21359746",
-        "type": "BR Series",
+        "type": "series",
         "name": "Mar do Sertão",
         "releaseInfo": "2022",
         "poster": "https://images.metahub.space/poster/medium/tt21359746/img",
@@ -6942,7 +6942,7 @@
     },
     {
         "id": "tt0138246",
-        "type": "BR Series",
+        "type": "series",
         "name": "Lua Cheia de Amor",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0138246/img",
@@ -6955,7 +6955,7 @@
     },
     {
         "id": "tt0149462",
-        "type": "BR Series",
+        "type": "series",
         "name": "Gente Fina",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0149462/img",
@@ -6968,7 +6968,7 @@
     },
     {
         "id": "tt0140736",
-        "type": "BR Series",
+        "type": "series",
         "name": "Explode Coração",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0140736/img",
@@ -6981,7 +6981,7 @@
     },
     {
         "id": "tt0209593",
-        "type": "BR Series",
+        "type": "series",
         "name": "De Quina pra Lua",
         "releaseInfo": "1985",
         "poster": "https://images.metahub.space/poster/medium/tt0209593/img",
@@ -6994,7 +6994,7 @@
     },
     {
         "id": "tt0138225",
-        "type": "BR Series",
+        "type": "series",
         "name": "Cabocla",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt0138225/img",
@@ -7007,7 +7007,7 @@
     },
     {
         "id": "tt0138277",
-        "type": "BR Series",
+        "type": "series",
         "name": "Xica da Silva",
         "releaseInfo": "1996",
         "poster": "https://images.metahub.space/poster/medium/tt0138277/img",
@@ -7020,7 +7020,7 @@
     },
     {
         "id": "tt0757116",
-        "type": "BR Series",
+        "type": "series",
         "name": "Páginas da Vida",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0757116/img",
@@ -7034,7 +7034,7 @@
     },
     {
         "id": "tt0205651",
-        "type": "BR Series",
+        "type": "series",
         "name": "Irmãos Coragem",
         "releaseInfo": "1970",
         "poster": "https://images.metahub.space/poster/medium/tt0205651/img",
@@ -7047,7 +7047,7 @@
     },
     {
         "id": "tt0240257",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Bem-Amado",
         "releaseInfo": "1980",
         "poster": "https://images.metahub.space/poster/medium/tt0240257/img",
@@ -7059,7 +7059,7 @@
     },
     {
         "id": "tt0209723",
-        "type": "BR Series",
+        "type": "series",
         "name": "Pai Herói",
         "releaseInfo": "1979",
         "poster": "https://images.metahub.space/poster/medium/tt0209723/img",
@@ -7072,7 +7072,7 @@
     },
     {
         "id": "tt6491190",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Força do Querer",
         "releaseInfo": "2017",
         "poster": "https://images.metahub.space/poster/medium/tt6491190/img",
@@ -7086,7 +7086,7 @@
     },
     {
         "id": "tt0149440",
-        "type": "BR Series",
+        "type": "series",
         "name": "Dancin' Days",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0149440/img",
@@ -7100,7 +7100,7 @@
     },
     {
         "id": "tt0142045",
-        "type": "BR Series",
+        "type": "series",
         "name": "Pantanal",
         "releaseInfo": "1990",
         "poster": "https://images.metahub.space/poster/medium/tt0142045/img",
@@ -7117,7 +7117,7 @@
     },
     {
         "id": "tt4773278",
-        "type": "BR Series",
+        "type": "series",
         "name": "Verdades Secretas",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt4773278/img",
@@ -7132,7 +7132,7 @@
     },
     {
         "id": "tt4855286",
-        "type": "BR Series",
+        "type": "series",
         "name": "Os Dez Mandamentos",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt4855286/img",
@@ -7147,7 +7147,7 @@
     },
     {
         "id": "tt0085575",
-        "type": "BR Filmes",
+        "type": "movie",
         "name": "Gabriela",
         "releaseInfo": "1983",
         "poster": "https://images.metahub.space/poster/medium/tt0085575/img",
@@ -7161,7 +7161,7 @@
     },
     {
         "id": "tt0380096",
-        "type": "BR Series",
+        "type": "series",
         "name": "Chocolate com Pimenta",
         "releaseInfo": "2003",
         "poster": "https://images.metahub.space/poster/medium/tt0380096/img",
@@ -7176,7 +7176,7 @@
     },
     {
         "id": "tt0149470",
-        "type": "BR Series",
+        "type": "series",
         "name": "História de Amor",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0149470/img",
@@ -7189,7 +7189,7 @@
     },
     {
         "id": "tt0470975",
-        "type": "BR Series",
+        "type": "series",
         "name": "Essas Mulheres",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0470975/img",
@@ -7202,7 +7202,7 @@
     },
     {
         "id": "tt8328962",
-        "type": "BR Series",
+        "type": "series",
         "name": "Segundo Sol",
         "releaseInfo": "2018",
         "poster": "https://images.metahub.space/poster/medium/tt8328962/img",
@@ -7215,7 +7215,7 @@
     },
     {
         "id": "tt4986278",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Regra do Jogo",
         "releaseInfo": "2015",
         "poster": "https://images.metahub.space/poster/medium/tt4986278/img",
@@ -7229,7 +7229,7 @@
     },
     {
         "id": "tt0435926",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Escrava Isaura",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0435926/img",
@@ -7243,7 +7243,7 @@
     },
     {
         "id": "tt0407377",
-        "type": "BR Series",
+        "type": "series",
         "name": "Da Cor do Pecado",
         "releaseInfo": "2004",
         "poster": "https://images.metahub.space/poster/medium/tt0407377/img",
@@ -7257,7 +7257,7 @@
     },
     {
         "id": "tt0793360",
-        "type": "BR Series",
+        "type": "series",
         "name": "Sinhá Moça",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0793360/img",
@@ -7271,7 +7271,7 @@
     },
     {
         "id": "tt0476078",
-        "type": "BR Series",
+        "type": "series",
         "name": "Alma Gêmea",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0476078/img",
@@ -7285,7 +7285,7 @@
     },
     {
         "id": "tt0420362",
-        "type": "BR Series",
+        "type": "series",
         "name": "América",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0420362/img",
@@ -7299,7 +7299,7 @@
     },
     {
         "id": "tt0840931",
-        "type": "BR Series",
+        "type": "series",
         "name": "O Profeta",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0840931/img",
@@ -7313,7 +7313,7 @@
     },
     {
         "id": "tt1146331",
-        "type": "BR Series",
+        "type": "series",
         "name": "Desejo Proibido",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1146331/img",
@@ -7326,7 +7326,7 @@
     },
     {
         "id": "tt1124063",
-        "type": "BR Series",
+        "type": "series",
         "name": "Duas Caras",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1124063/img",
@@ -7340,7 +7340,7 @@
     },
     {
         "id": "tt1447660",
-        "type": "BR Series",
+        "type": "series",
         "name": "Paraíso",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1447660/img",
@@ -7353,7 +7353,7 @@
     },
     {
         "id": "tt1062775",
-        "type": "BR Series",
+        "type": "series",
         "name": "Sete Pecados",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1062775/img",
@@ -7367,7 +7367,7 @@
     },
     {
         "id": "tt1233506",
-        "type": "BR Series",
+        "type": "series",
         "name": "Beleza Pura",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1233506/img",
@@ -7380,7 +7380,7 @@
     },
     {
         "id": "tt0809665",
-        "type": "BR Series",
+        "type": "series",
         "name": "Cobras & Lagartos",
         "releaseInfo": "2006",
         "poster": "https://images.metahub.space/poster/medium/tt0809665/img",
@@ -7395,7 +7395,7 @@
     },
     {
         "id": "tt1692131",
-        "type": "BR Series",
+        "type": "series",
         "name": "Escrito nas Estrelas",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1692131/img",
@@ -7409,7 +7409,7 @@
     },
     {
         "id": "tt0997019",
-        "type": "BR Series",
+        "type": "series",
         "name": "Eterna Magia",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt0997019/img",
@@ -7422,7 +7422,7 @@
     },
     {
         "id": "tt1781724",
-        "type": "BR Series",
+        "type": "series",
         "name": "Ti Ti Ti",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1781724/img",
@@ -7436,7 +7436,7 @@
     },
     {
         "id": "tt1500550",
-        "type": "BR Series",
+        "type": "series",
         "name": "Caras & Bocas",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1500550/img",
@@ -7450,7 +7450,7 @@
     },
     {
         "id": "tt1616014",
-        "type": "BR Series",
+        "type": "series",
         "name": "Passione",
         "releaseInfo": "2010",
         "poster": "https://images.metahub.space/poster/medium/tt1616014/img",
@@ -7465,7 +7465,7 @@
     },
     {
         "id": "tt0140730",
-        "type": "BR Series",
+        "type": "series",
         "name": "Corpo Dourado",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0140730/img",
@@ -7478,7 +7478,7 @@
     },
     {
         "id": "tt1615946",
-        "type": "BR Series",
+        "type": "series",
         "name": "Cama de Gato",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1615946/img",
@@ -7492,7 +7492,7 @@
     },
     {
         "id": "tt1560788",
-        "type": "BR Series",
+        "type": "series",
         "name": "Bela, a Feia",
         "releaseInfo": "2009",
         "poster": "https://images.metahub.space/poster/medium/tt1560788/img",
@@ -7505,7 +7505,7 @@
     },
     {
         "id": "tt0452720",
-        "type": "BR Series",
+        "type": "series",
         "name": "Floribella",
         "releaseInfo": "2005",
         "poster": "https://images.metahub.space/poster/medium/tt0452720/img",
@@ -7520,7 +7520,7 @@
     },
     {
         "id": "tt0161203",
-        "type": "BR Series",
+        "type": "series",
         "name": "Torre de Babel",
         "releaseInfo": "1998",
         "poster": "https://images.metahub.space/poster/medium/tt0161203/img",
@@ -7536,7 +7536,7 @@
     },
     {
         "id": "tt0138265",
-        "type": "BR Series",
+        "type": "series",
         "name": "A Sucessora",
         "releaseInfo": "1978",
         "poster": "https://images.metahub.space/poster/medium/tt0138265/img",
@@ -7550,7 +7550,7 @@
     },
     {
         "id": "tt0142057",
-        "type": "BR Series",
+        "type": "series",
         "name": "Éramos Seis",
         "releaseInfo": "1994",
         "poster": "https://images.metahub.space/poster/medium/tt0142057/img",
@@ -7563,7 +7563,7 @@
     },
     {
         "id": "tt0144724",
-        "type": "BR Series",
+        "type": "series",
         "name": "Malhação",
         "releaseInfo": "1995",
         "poster": "https://images.metahub.space/poster/medium/tt0144724/img",
@@ -7578,7 +7578,7 @@
     },
     {
         "id": "tt1156473",
-        "type": "BR Series",
+        "type": "series",
         "name": "Amor e Intrigas",
         "releaseInfo": "2007",
         "poster": "https://images.metahub.space/poster/medium/tt1156473/img",
@@ -7590,7 +7590,7 @@
     },
     {
         "id": "tt0087305",
-        "type": "BR Series",
+        "type": "series",
         "name": "Força de Um Desejo",
         "releaseInfo": "1999",
         "poster": "https://images.metahub.space/poster/medium/tt0087305/img",
@@ -7603,7 +7603,7 @@
     },
     {
         "id": "tt1233562",
-        "type": "BR Series",
+        "type": "series",
         "name": "Água na Boca",
         "releaseInfo": "2008",
         "poster": "https://images.metahub.space/poster/medium/tt1233562/img",
@@ -7615,7 +7615,7 @@
     },
     {
         "id": "tt0246398",
-        "type": "BR Series",
+        "type": "series",
         "name": "Uga Uga",
         "releaseInfo": "2000",
         "poster": "https://images.metahub.space/poster/medium/tt0246398/img",
