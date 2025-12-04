@@ -5,15 +5,15 @@ const builder = new addonBuilder({
     id: "org.achei.catalog",
     version: "1.0.0",
     name: "BR Achei - Recomendações",
-    description: "Catálogo com as recomendações do BR Achei - Os melhores filmes, sereis, Series e desenhos brasileiros",
+    description: "Catálogo com as recomendações do BR Achei - Os melhores BR filmes, sereis, BR Series e desenhos brasileiros",
     logo: "https://i.imgur.com/gDysxlK.png",
     resources: ["catalog", "meta"],
     types: ["movie", "series"],
     catalogs: [
         {
             type: "movie",
-            id: "Filmes",
-            name: "Filmes",
+            id: "BR Filmes",
+            name: "BR Filmes",
             extra: [
                 { name: "search", isRequired: false },
                 {
@@ -21,7 +21,7 @@ const builder = new addonBuilder({
                     isRequired: false,
                     options: [
                         "Mazzaropi",
-                        "Abraccine: 100 Melhores Animações Nacionais", "Abraccine: 100 Melhores Curtas Nacionais", "Abraccine: 100 Melhores Documentários", "Abraccine: 100 Melhores Filmes Nacionais", "Animação", "Aventura", "Ação", "Biografia", "Comédia", "Curta-Metragem", "Documentário", "Drama", "Esporte", "Esportes", "Família", "Fantasia", "Faroeste", "Ficção científica", "Guerra", "História", "Mazzaropi", "Mistério", "Musical", "Novelas BR", "Policial", "Romance", "Suspense", "Terror"
+                        "Abraccine: 100 Melhores Animações Nacionais", "Abraccine: 100 Melhores Curtas Nacionais", "Abraccine: 100 Melhores Documentários", "Abraccine: 100 Melhores BR Filmes Nacionais", "Animação", "Aventura", "Ação", "Biografia", "Comédia", "Curta-Metragem", "Documentário", "Drama", "Esporte", "Esportes", "Família", "Fantasia", "Faroeste", "Ficção científica", "Guerra", "História", "Mazzaropi", "Mistério", "Musical", "Novelas BR", "Policial", "Romance", "Suspense", "Terror"
 
                     ]
                 }
@@ -29,8 +29,8 @@ const builder = new addonBuilder({
         },
         {
             type: "series",
-            id: "Series",
-            name: "Series",
+            id: "BR Series",
+            name: "BR Series",
             extra: [
                 { name: "search", isRequired: false },
                 {
@@ -52,9 +52,9 @@ builder.defineCatalogHandler(({ type, id, extra }) => {
     let results = catalog;
 
     // Filter by type and id logic (simplified to just filter by type for now as base)
-    if (type === "movie" && id === "Filmes") {
+    if (type === "movie" && id === "BR Filmes") {
         results = results.filter(i => i.type === "movie");
-    } else if (type === "series" && id === "Series") {
+    } else if (type === "series" && id === "BR Series") {
         results = results.filter(i => i.type === "series");
     } else {
         return Promise.resolve({ metas: [] });
@@ -75,8 +75,8 @@ builder.defineCatalogHandler(({ type, id, extra }) => {
 
 builder.defineMetaHandler(({ type, id }) => {
     console.log("request for meta: " + type + " " + id);
-    const Filmes = catalog.find(m => m.id === id);
-    return Promise.resolve({ meta: Filmes || null });
+    const movie = catalog.find(m => m.id === id);
+    return Promise.resolve({ meta: movie || null });
 });
 
 serveHTTP(builder.getInterface(), { port: 7000 });
